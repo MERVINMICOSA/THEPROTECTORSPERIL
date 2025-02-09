@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f342d4c86fdca642be330aefb732d0b, type: 3}
+  m_Name: ICE_MONSTER
+  m_EditorClassIdentifier: 
+  name: ICE_MONSTER
+  description: 
+  frontSprite: {fileID: 8547629202100249411, guid: b84cb980a6126e74f88ef5c2a772f4bf,
+    type: 3}
+  backSprite: {fileID: 8547629202100249411, guid: 511de66a64346e94f8ac5a92d6e51bac,
+    type: 3}
+  type1: 0
+  type2: 5
+  maxHp: 45
+  attack: 49
+  defense: 49
+  spAttack: 65
+  spDefense: 65
+  speed: 45
+  catchRate: 255
+  expYield: 300
+  growthRate: 0
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 26b4e04deca4c134baee9b43d0a5a3e7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bed6cf93057abd1468dd489ba7658aed, type: 2}
+    level: 3
+  - moveBase: {fileID: 11400000, guid: db9861064e83e15469fb262d0cb2a969, type: 2}
+    level: 9
+  - moveBase: {fileID: 11400000, guid: 0e603aa89a6a59344bbf25a36051033b, type: 2}
+    level: 10

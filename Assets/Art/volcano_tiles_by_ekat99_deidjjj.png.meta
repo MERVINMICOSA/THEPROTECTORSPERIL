@@ -1,0 +1,5311 @@
+fileFormatVersion: 2
+guid: 2c000647957c2cd49ad1ac3a04dfb85f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1998506244079976963
+    second: volcano_tiles_by_ekat99_deidjjj_0
+  - first:
+      213: -4509376007318827781
+    second: volcano_tiles_by_ekat99_deidjjj_1
+  - first:
+      213: -603376178071726661
+    second: volcano_tiles_by_ekat99_deidjjj_2
+  - first:
+      213: 2437369764968758639
+    second: volcano_tiles_by_ekat99_deidjjj_3
+  - first:
+      213: -2714851523389864200
+    second: volcano_tiles_by_ekat99_deidjjj_4
+  - first:
+      213: -5470608728888791727
+    second: volcano_tiles_by_ekat99_deidjjj_5
+  - first:
+      213: 6617554939326780513
+    second: volcano_tiles_by_ekat99_deidjjj_6
+  - first:
+      213: 1301684050663961299
+    second: volcano_tiles_by_ekat99_deidjjj_7
+  - first:
+      213: 1754852205428867753
+    second: volcano_tiles_by_ekat99_deidjjj_8
+  - first:
+      213: 3715271234653121893
+    second: volcano_tiles_by_ekat99_deidjjj_9
+  - first:
+      213: 7878350336945107685
+    second: volcano_tiles_by_ekat99_deidjjj_10
+  - first:
+      213: 7448865310400479387
+    second: volcano_tiles_by_ekat99_deidjjj_11
+  - first:
+      213: 7577075429356571560
+    second: volcano_tiles_by_ekat99_deidjjj_12
+  - first:
+      213: 2172059522902893315
+    second: volcano_tiles_by_ekat99_deidjjj_13
+  - first:
+      213: 4077586032625730498
+    second: volcano_tiles_by_ekat99_deidjjj_14
+  - first:
+      213: -7870110198391296688
+    second: volcano_tiles_by_ekat99_deidjjj_15
+  - first:
+      213: 4263024764793648432
+    second: volcano_tiles_by_ekat99_deidjjj_16
+  - first:
+      213: -7714100469764936917
+    second: volcano_tiles_by_ekat99_deidjjj_17
+  - first:
+      213: -2559231882999986235
+    second: volcano_tiles_by_ekat99_deidjjj_18
+  - first:
+      213: 7694704192067270166
+    second: volcano_tiles_by_ekat99_deidjjj_19
+  - first:
+      213: 2039233827941441350
+    second: volcano_tiles_by_ekat99_deidjjj_20
+  - first:
+      213: -1707553561197237107
+    second: volcano_tiles_by_ekat99_deidjjj_21
+  - first:
+      213: -6850355642236505116
+    second: volcano_tiles_by_ekat99_deidjjj_22
+  - first:
+      213: 3998301214302855820
+    second: volcano_tiles_by_ekat99_deidjjj_23
+  - first:
+      213: 6106962715107483213
+    second: volcano_tiles_by_ekat99_deidjjj_24
+  - first:
+      213: 5650720271602049646
+    second: volcano_tiles_by_ekat99_deidjjj_25
+  - first:
+      213: 3689902083789816432
+    second: volcano_tiles_by_ekat99_deidjjj_26
+  - first:
+      213: 2564141305520978169
+    second: volcano_tiles_by_ekat99_deidjjj_27
+  - first:
+      213: -2152571106164101117
+    second: volcano_tiles_by_ekat99_deidjjj_28
+  - first:
+      213: -2622619213912374418
+    second: volcano_tiles_by_ekat99_deidjjj_29
+  - first:
+      213: -7016332803414649276
+    second: volcano_tiles_by_ekat99_deidjjj_30
+  - first:
+      213: -4534684555770587486
+    second: volcano_tiles_by_ekat99_deidjjj_31
+  - first:
+      213: 6218853588198710898
+    second: volcano_tiles_by_ekat99_deidjjj_32
+  - first:
+      213: 3424004606912021249
+    second: volcano_tiles_by_ekat99_deidjjj_33
+  - first:
+      213: -5936708485972199506
+    second: volcano_tiles_by_ekat99_deidjjj_34
+  - first:
+      213: -2945640964689059851
+    second: volcano_tiles_by_ekat99_deidjjj_35
+  - first:
+      213: 5411972346505311861
+    second: volcano_tiles_by_ekat99_deidjjj_36
+  - first:
+      213: 8018686631889868241
+    second: volcano_tiles_by_ekat99_deidjjj_37
+  - first:
+      213: 5141724022566413362
+    second: volcano_tiles_by_ekat99_deidjjj_38
+  - first:
+      213: -4460995693072846576
+    second: volcano_tiles_by_ekat99_deidjjj_39
+  - first:
+      213: 6834555097243634184
+    second: volcano_tiles_by_ekat99_deidjjj_40
+  - first:
+      213: 6137826086460729716
+    second: volcano_tiles_by_ekat99_deidjjj_41
+  - first:
+      213: 1567248751313346612
+    second: volcano_tiles_by_ekat99_deidjjj_42
+  - first:
+      213: -9175220979957460016
+    second: volcano_tiles_by_ekat99_deidjjj_43
+  - first:
+      213: 7252708068673038294
+    second: volcano_tiles_by_ekat99_deidjjj_44
+  - first:
+      213: -2312977581296991539
+    second: volcano_tiles_by_ekat99_deidjjj_45
+  - first:
+      213: -8740191339870443716
+    second: volcano_tiles_by_ekat99_deidjjj_46
+  - first:
+      213: -8779921817402876366
+    second: volcano_tiles_by_ekat99_deidjjj_47
+  - first:
+      213: 8489918940994533365
+    second: volcano_tiles_by_ekat99_deidjjj_48
+  - first:
+      213: 8781780591212709133
+    second: volcano_tiles_by_ekat99_deidjjj_49
+  - first:
+      213: -6386406093423900006
+    second: volcano_tiles_by_ekat99_deidjjj_50
+  - first:
+      213: -1077230051887639911
+    second: volcano_tiles_by_ekat99_deidjjj_51
+  - first:
+      213: -1540379091446422697
+    second: volcano_tiles_by_ekat99_deidjjj_52
+  - first:
+      213: -8271466397205430137
+    second: volcano_tiles_by_ekat99_deidjjj_53
+  - first:
+      213: 8887173482954456225
+    second: volcano_tiles_by_ekat99_deidjjj_54
+  - first:
+      213: 4838164682663421457
+    second: volcano_tiles_by_ekat99_deidjjj_55
+  - first:
+      213: -1616450157062043697
+    second: volcano_tiles_by_ekat99_deidjjj_56
+  - first:
+      213: -4267105402484613062
+    second: volcano_tiles_by_ekat99_deidjjj_57
+  - first:
+      213: -3376020499591283493
+    second: volcano_tiles_by_ekat99_deidjjj_58
+  - first:
+      213: 2885126336011879338
+    second: volcano_tiles_by_ekat99_deidjjj_59
+  - first:
+      213: 6102118412525132890
+    second: volcano_tiles_by_ekat99_deidjjj_60
+  - first:
+      213: -511124673524524936
+    second: volcano_tiles_by_ekat99_deidjjj_61
+  - first:
+      213: 7235106874515255000
+    second: volcano_tiles_by_ekat99_deidjjj_62
+  - first:
+      213: 3283853980871810709
+    second: volcano_tiles_by_ekat99_deidjjj_63
+  - first:
+      213: 3921438774118019428
+    second: volcano_tiles_by_ekat99_deidjjj_64
+  - first:
+      213: 2137149006071843508
+    second: volcano_tiles_by_ekat99_deidjjj_65
+  - first:
+      213: -5164700524365284086
+    second: volcano_tiles_by_ekat99_deidjjj_66
+  - first:
+      213: 6715750727094497769
+    second: volcano_tiles_by_ekat99_deidjjj_67
+  - first:
+      213: 848937168347674369
+    second: volcano_tiles_by_ekat99_deidjjj_68
+  - first:
+      213: -5924987348231562856
+    second: volcano_tiles_by_ekat99_deidjjj_69
+  - first:
+      213: -9194109495346061652
+    second: volcano_tiles_by_ekat99_deidjjj_70
+  - first:
+      213: 6917271406954640740
+    second: volcano_tiles_by_ekat99_deidjjj_71
+  - first:
+      213: 5538548511263270759
+    second: volcano_tiles_by_ekat99_deidjjj_72
+  - first:
+      213: -6840367761750748302
+    second: volcano_tiles_by_ekat99_deidjjj_73
+  - first:
+      213: 6595656808750696729
+    second: volcano_tiles_by_ekat99_deidjjj_74
+  - first:
+      213: -7145569354527809604
+    second: volcano_tiles_by_ekat99_deidjjj_75
+  - first:
+      213: -1902917165852559742
+    second: volcano_tiles_by_ekat99_deidjjj_76
+  - first:
+      213: -7010408776198935036
+    second: volcano_tiles_by_ekat99_deidjjj_77
+  - first:
+      213: -2039851693644266519
+    second: volcano_tiles_by_ekat99_deidjjj_78
+  - first:
+      213: 7219053423521400580
+    second: volcano_tiles_by_ekat99_deidjjj_79
+  - first:
+      213: -5084748320463658051
+    second: volcano_tiles_by_ekat99_deidjjj_80
+  - first:
+      213: -6968791968087343591
+    second: volcano_tiles_by_ekat99_deidjjj_81
+  - first:
+      213: -4920460938597418455
+    second: volcano_tiles_by_ekat99_deidjjj_82
+  - first:
+      213: 6417411630111498677
+    second: volcano_tiles_by_ekat99_deidjjj_83
+  - first:
+      213: -8645952430283688941
+    second: volcano_tiles_by_ekat99_deidjjj_84
+  - first:
+      213: 7522568855685192954
+    second: volcano_tiles_by_ekat99_deidjjj_85
+  - first:
+      213: 2868764652136934593
+    second: volcano_tiles_by_ekat99_deidjjj_86
+  - first:
+      213: 7326604089717799243
+    second: volcano_tiles_by_ekat99_deidjjj_87
+  - first:
+      213: -7887692538004466412
+    second: volcano_tiles_by_ekat99_deidjjj_88
+  - first:
+      213: -7997113446206209469
+    second: volcano_tiles_by_ekat99_deidjjj_89
+  - first:
+      213: 7993730158795376276
+    second: volcano_tiles_by_ekat99_deidjjj_90
+  - first:
+      213: 289297263918016133
+    second: volcano_tiles_by_ekat99_deidjjj_91
+  - first:
+      213: -1898655868519733286
+    second: volcano_tiles_by_ekat99_deidjjj_92
+  - first:
+      213: 7410688330617419839
+    second: volcano_tiles_by_ekat99_deidjjj_93
+  - first:
+      213: -4004167767906772752
+    second: volcano_tiles_by_ekat99_deidjjj_94
+  - first:
+      213: -3499664652036093652
+    second: volcano_tiles_by_ekat99_deidjjj_95
+  - first:
+      213: -4452904114835100784
+    second: volcano_tiles_by_ekat99_deidjjj_96
+  - first:
+      213: -3908229317536784664
+    second: volcano_tiles_by_ekat99_deidjjj_97
+  - first:
+      213: 5651274097072792503
+    second: volcano_tiles_by_ekat99_deidjjj_98
+  - first:
+      213: -1721256701000565131
+    second: volcano_tiles_by_ekat99_deidjjj_99
+  - first:
+      213: 7987320579973923568
+    second: volcano_tiles_by_ekat99_deidjjj_100
+  - first:
+      213: 353586730194717788
+    second: volcano_tiles_by_ekat99_deidjjj_101
+  - first:
+      213: -8024384248906210946
+    second: volcano_tiles_by_ekat99_deidjjj_102
+  - first:
+      213: 7434639145106021441
+    second: volcano_tiles_by_ekat99_deidjjj_103
+  - first:
+      213: 1083999791831592915
+    second: volcano_tiles_by_ekat99_deidjjj_104
+  - first:
+      213: 5972679539397205263
+    second: volcano_tiles_by_ekat99_deidjjj_105
+  - first:
+      213: 584045773104461372
+    second: volcano_tiles_by_ekat99_deidjjj_106
+  - first:
+      213: 2162723828631151982
+    second: volcano_tiles_by_ekat99_deidjjj_107
+  - first:
+      213: 166763509125033241
+    second: volcano_tiles_by_ekat99_deidjjj_108
+  - first:
+      213: -6630983536115706330
+    second: volcano_tiles_by_ekat99_deidjjj_109
+  - first:
+      213: -8693029028437839998
+    second: volcano_tiles_by_ekat99_deidjjj_110
+  - first:
+      213: -8341402440451929608
+    second: volcano_tiles_by_ekat99_deidjjj_111
+  - first:
+      213: -670441765019295271
+    second: volcano_tiles_by_ekat99_deidjjj_112
+  - first:
+      213: -8880275603992503760
+    second: volcano_tiles_by_ekat99_deidjjj_113
+  - first:
+      213: -4777468116693525122
+    second: volcano_tiles_by_ekat99_deidjjj_114
+  - first:
+      213: 1988493397366546452
+    second: volcano_tiles_by_ekat99_deidjjj_115
+  - first:
+      213: -4143523637014566392
+    second: volcano_tiles_by_ekat99_deidjjj_116
+  - first:
+      213: -6493780311916096400
+    second: volcano_tiles_by_ekat99_deidjjj_117
+  - first:
+      213: -4226960051642426562
+    second: volcano_tiles_by_ekat99_deidjjj_118
+  - first:
+      213: -5059913890073132314
+    second: volcano_tiles_by_ekat99_deidjjj_119
+  - first:
+      213: -6768310893523616365
+    second: volcano_tiles_by_ekat99_deidjjj_120
+  - first:
+      213: 3167877840479996739
+    second: volcano_tiles_by_ekat99_deidjjj_121
+  - first:
+      213: 8136023680842473119
+    second: volcano_tiles_by_ekat99_deidjjj_122
+  - first:
+      213: -5292376980226220398
+    second: volcano_tiles_by_ekat99_deidjjj_123
+  - first:
+      213: 5361512625222386886
+    second: volcano_tiles_by_ekat99_deidjjj_124
+  - first:
+      213: -1437938449213682329
+    second: volcano_tiles_by_ekat99_deidjjj_125
+  - first:
+      213: 3820609980329900173
+    second: volcano_tiles_by_ekat99_deidjjj_126
+  - first:
+      213: 461711890467113115
+    second: volcano_tiles_by_ekat99_deidjjj_127
+  - first:
+      213: 7925075820299939385
+    second: volcano_tiles_by_ekat99_deidjjj_128
+  - first:
+      213: 7640171707380428420
+    second: volcano_tiles_by_ekat99_deidjjj_129
+  - first:
+      213: -7197053273690281837
+    second: volcano_tiles_by_ekat99_deidjjj_130
+  - first:
+      213: 829598128115492616
+    second: volcano_tiles_by_ekat99_deidjjj_131
+  - first:
+      213: 8503738345830004234
+    second: volcano_tiles_by_ekat99_deidjjj_132
+  - first:
+      213: -702439246963416100
+    second: volcano_tiles_by_ekat99_deidjjj_133
+  - first:
+      213: -435224417340672553
+    second: volcano_tiles_by_ekat99_deidjjj_134
+  - first:
+      213: -6498810520183116912
+    second: volcano_tiles_by_ekat99_deidjjj_135
+  - first:
+      213: 4267986718866560377
+    second: volcano_tiles_by_ekat99_deidjjj_136
+  - first:
+      213: 2487258742377637604
+    second: volcano_tiles_by_ekat99_deidjjj_137
+  - first:
+      213: -2858824081433998849
+    second: volcano_tiles_by_ekat99_deidjjj_138
+  - first:
+      213: -831529795503971829
+    second: volcano_tiles_by_ekat99_deidjjj_139
+  - first:
+      213: -4881353467078113678
+    second: volcano_tiles_by_ekat99_deidjjj_140
+  - first:
+      213: -5491541195749239951
+    second: volcano_tiles_by_ekat99_deidjjj_141
+  - first:
+      213: 1166809315801746348
+    second: volcano_tiles_by_ekat99_deidjjj_142
+  - first:
+      213: -1305835704932822732
+    second: volcano_tiles_by_ekat99_deidjjj_143
+  - first:
+      213: -9187323395499384956
+    second: volcano_tiles_by_ekat99_deidjjj_144
+  - first:
+      213: -9051123090562158306
+    second: volcano_tiles_by_ekat99_deidjjj_145
+  - first:
+      213: -759705093793628474
+    second: volcano_tiles_by_ekat99_deidjjj_146
+  - first:
+      213: 2943891071206618983
+    second: volcano_tiles_by_ekat99_deidjjj_147
+  - first:
+      213: -1740789583032564936
+    second: volcano_tiles_by_ekat99_deidjjj_148
+  - first:
+      213: 8742184677096802202
+    second: volcano_tiles_by_ekat99_deidjjj_149
+  - first:
+      213: -8550198802188120731
+    second: volcano_tiles_by_ekat99_deidjjj_150
+  - first:
+      213: -6169453615361833107
+    second: volcano_tiles_by_ekat99_deidjjj_151
+  - first:
+      213: -2879901364257060683
+    second: volcano_tiles_by_ekat99_deidjjj_152
+  - first:
+      213: 6008899060140310869
+    second: volcano_tiles_by_ekat99_deidjjj_153
+  - first:
+      213: 6064339146216727643
+    second: volcano_tiles_by_ekat99_deidjjj_154
+  - first:
+      213: 3211473433487035408
+    second: volcano_tiles_by_ekat99_deidjjj_155
+  - first:
+      213: 3590496892399248222
+    second: volcano_tiles_by_ekat99_deidjjj_156
+  - first:
+      213: -2720393484336591964
+    second: volcano_tiles_by_ekat99_deidjjj_157
+  - first:
+      213: -4227333706530168630
+    second: volcano_tiles_by_ekat99_deidjjj_158
+  - first:
+      213: -8928565428473713109
+    second: volcano_tiles_by_ekat99_deidjjj_159
+  - first:
+      213: -9080955348057424064
+    second: volcano_tiles_by_ekat99_deidjjj_160
+  - first:
+      213: -1924176929912101275
+    second: volcano_tiles_by_ekat99_deidjjj_161
+  - first:
+      213: -1719059843504149889
+    second: volcano_tiles_by_ekat99_deidjjj_162
+  - first:
+      213: -7753895721009141413
+    second: volcano_tiles_by_ekat99_deidjjj_163
+  - first:
+      213: -4921199493317836283
+    second: volcano_tiles_by_ekat99_deidjjj_164
+  - first:
+      213: 7396932510600860370
+    second: volcano_tiles_by_ekat99_deidjjj_165
+  - first:
+      213: -5323765262442839420
+    second: volcano_tiles_by_ekat99_deidjjj_166
+  - first:
+      213: -5240740584796103249
+    second: volcano_tiles_by_ekat99_deidjjj_167
+  - first:
+      213: 8288924374360909791
+    second: volcano_tiles_by_ekat99_deidjjj_168
+  - first:
+      213: -5892509783228027013
+    second: volcano_tiles_by_ekat99_deidjjj_169
+  - first:
+      213: -6176964767655298591
+    second: volcano_tiles_by_ekat99_deidjjj_170
+  - first:
+      213: -3183510778048808971
+    second: volcano_tiles_by_ekat99_deidjjj_171
+  - first:
+      213: 1512550350017532199
+    second: volcano_tiles_by_ekat99_deidjjj_172
+  - first:
+      213: -4111628097298108354
+    second: volcano_tiles_by_ekat99_deidjjj_173
+  - first:
+      213: 251058757716594512
+    second: volcano_tiles_by_ekat99_deidjjj_174
+  - first:
+      213: 6473716753898025168
+    second: volcano_tiles_by_ekat99_deidjjj_175
+  - first:
+      213: -9171393332320650451
+    second: volcano_tiles_by_ekat99_deidjjj_176
+  - first:
+      213: 8836161405937601711
+    second: volcano_tiles_by_ekat99_deidjjj_177
+  - first:
+      213: -8035342303801477226
+    second: volcano_tiles_by_ekat99_deidjjj_178
+  - first:
+      213: 6085043975712591632
+    second: volcano_tiles_by_ekat99_deidjjj_179
+  - first:
+      213: 2194532182186710923
+    second: volcano_tiles_by_ekat99_deidjjj_180
+  - first:
+      213: 6940639489279138515
+    second: volcano_tiles_by_ekat99_deidjjj_181
+  - first:
+      213: -7267312499435366844
+    second: volcano_tiles_by_ekat99_deidjjj_182
+  - first:
+      213: -7491439135113386020
+    second: volcano_tiles_by_ekat99_deidjjj_183
+  - first:
+      213: 7769064734770529394
+    second: volcano_tiles_by_ekat99_deidjjj_184
+  - first:
+      213: -4105980066569376305
+    second: volcano_tiles_by_ekat99_deidjjj_185
+  - first:
+      213: 6971999198017621227
+    second: volcano_tiles_by_ekat99_deidjjj_186
+  - first:
+      213: 4305673058900653868
+    second: volcano_tiles_by_ekat99_deidjjj_187
+  - first:
+      213: 5183055864874191340
+    second: volcano_tiles_by_ekat99_deidjjj_188
+  - first:
+      213: -5998728610495181611
+    second: volcano_tiles_by_ekat99_deidjjj_189
+  - first:
+      213: -7115891808092390263
+    second: volcano_tiles_by_ekat99_deidjjj_190
+  - first:
+      213: -2839149171888907923
+    second: volcano_tiles_by_ekat99_deidjjj_191
+  - first:
+      213: -239636107736324763
+    second: volcano_tiles_by_ekat99_deidjjj_192
+  - first:
+      213: -5327971607648943100
+    second: volcano_tiles_by_ekat99_deidjjj_193
+  - first:
+      213: -5621682269892715664
+    second: volcano_tiles_by_ekat99_deidjjj_194
+  - first:
+      213: -2459227969433378362
+    second: volcano_tiles_by_ekat99_deidjjj_195
+  - first:
+      213: 7436781163586674506
+    second: volcano_tiles_by_ekat99_deidjjj_196
+  - first:
+      213: 6063871322445325303
+    second: volcano_tiles_by_ekat99_deidjjj_197
+  - first:
+      213: -5236388728978954563
+    second: volcano_tiles_by_ekat99_deidjjj_198
+  - first:
+      213: 6986304946388062557
+    second: volcano_tiles_by_ekat99_deidjjj_199
+  - first:
+      213: 4059997604142994530
+    second: volcano_tiles_by_ekat99_deidjjj_200
+  - first:
+      213: 6039741934649017978
+    second: volcano_tiles_by_ekat99_deidjjj_201
+  - first:
+      213: 5047436907595366746
+    second: volcano_tiles_by_ekat99_deidjjj_202
+  - first:
+      213: -243041968975423849
+    second: volcano_tiles_by_ekat99_deidjjj_203
+  - first:
+      213: 9141226219751298649
+    second: volcano_tiles_by_ekat99_deidjjj_204
+  - first:
+      213: -5384650257746346569
+    second: volcano_tiles_by_ekat99_deidjjj_205
+  - first:
+      213: -3146656282226971674
+    second: volcano_tiles_by_ekat99_deidjjj_206
+  - first:
+      213: 4877633974143544556
+    second: volcano_tiles_by_ekat99_deidjjj_207
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd7638d821e344e0800000000000000
+      internalID: -1998506244079976963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc871db96a7b61c0800000000000000
+      internalID: -4509376007318827781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb51a18109060a7f0800000000000000
+      internalID: -603376178071726661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d7d3333e643d120800000000000000
+      internalID: 2437369764968758639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f64b626ce8e25ad0800000000000000
+      internalID: -2714851523389864200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dae69785e7414b0800000000000000
+      internalID: -5470608728888791727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645430f72746db50800000000000000
+      internalID: 6617554939326780513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2fd995fb2801210800000000000000
+      internalID: 1301684050663961299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a206e188cc7a5810800000000000000
+      internalID: 1754852205428867753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56de9b9e08b4f8330800000000000000
+      internalID: 3715271234653121893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e231b1e3e5855d60800000000000000
+      internalID: 7878350336945107685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908626b88faf5760800000000000000
+      internalID: 7448865310400479387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab832b35fd272960800000000000000
+      internalID: 7577075429356571560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303a1a5c0a4b42e10800000000000000
+      internalID: 2172059522902893315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c340c784ee769830800000000000000
+      internalID: 4077586032625730498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d25b1e870c7c290800000000000000
+      internalID: -7870110198391296688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f736ef6e492b30800000000000000
+      internalID: 4263024764793648432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bacf96e7202f490800000000000000
+      internalID: -7714100469764936917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78eeb6928cb7cd0800000000000000
+      internalID: -2559231882999986235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f0e3c1b419ca60800000000000000
+      internalID: 7694704192067270166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd868bc50dc4c10800000000000000
+      internalID: 2039233827941441350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca2e5451d8d48e0800000000000000
+      internalID: -1707553561197237107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3766f86d5aee0a0800000000000000
+      internalID: -6850355642236505116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e88f35c1dc7730800000000000000
+      internalID: 3998301214302855820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e598abb3a40c450800000000000000
+      internalID: 6106962715107483213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6260f1f5246b6e40800000000000000
+      internalID: 5650720271602049646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720440356a253330800000000000000
+      internalID: 3689902083789816432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fb759ee8a59320800000000000000
+      internalID: 2564141305520978169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b157dbf78022e0800000000000000
+      internalID: -2152571106164101117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6383ad58b59a9bd0800000000000000
+      internalID: -2622619213912374418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4469c8a4d7af0ae90800000000000000
+      internalID: -7016332803414649276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a618dc1c609111c0800000000000000
+      internalID: -4534684555770587486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5fbab36ecd4650800000000000000
+      internalID: 6218853588198710898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ca408c02848f20800000000000000
+      internalID: 3424004606912021249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7749606139c9da0800000000000000
+      internalID: -5936708485972199506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9ed7362bfe17d0800000000000000
+      internalID: -2945640964689059851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576bfafdc203b1b40800000000000000
+      internalID: 5411972346505311861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d518f2c109184f60800000000000000
+      internalID: 8018686631889868241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234e92aa1c21b5740800000000000000
+      internalID: 5141724022566413362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01178d17d0c5712c0800000000000000
+      internalID: -4460995693072846576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aca0166a739de50800000000000000
+      internalID: 6834555097243634184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792e985e40fd2550800000000000000
+      internalID: 6137826086460729716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e4b88f6cffb510800000000000000
+      internalID: 1567248751313346612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39ce191211ba080800000000000000
+      internalID: -9175220979957460016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7addcdf8bc6a460800000000000000
+      internalID: 7252708068673038294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2c95df427a6efd0800000000000000
+      internalID: -2312977581296991539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a31ea84a94b680800000000000000
+      internalID: -8740191339870443716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23edff500a3772680800000000000000
+      internalID: -8779921817402876366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f6d99b4042d570800000000000000
+      internalID: 8489918940994533365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0547aa7be62fd970800000000000000
+      internalID: 8781780591212709133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a0412ae7dee57a0800000000000000
+      internalID: -6386406093423900006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929cd7a9f8ec01f0800000000000000
+      internalID: -1077230051887639911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753a5eaa0697f9ae0800000000000000
+      internalID: -1540379091446422697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7808df6c229d53d80800000000000000
+      internalID: -8271466397205430137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac75cc4235955b70800000000000000
+      internalID: 8887173482954456225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1166efa252d942340800000000000000
+      internalID: 4838164682663421457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7413f75273199e0800000000000000
+      internalID: -1616450157062043697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3021c99e3238c4c0800000000000000
+      internalID: -4267105402484613062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcbc671e37f521d0800000000000000
+      internalID: -3376020499591283493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3cc16dd170a0820800000000000000
+      internalID: 2885126336011879338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c5ee3ad541fa450800000000000000
+      internalID: 6102118412525132890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87812a641de18e8f0800000000000000
+      internalID: -511124673524524936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dee77f7e53486460800000000000000
+      internalID: 7235106874515255000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59edd180cc7929d20800000000000000
+      internalID: 3283853980871810709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617fb3d9cfbb6630800000000000000
+      internalID: 3921438774118019428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bacdfaa2bda8ad10800000000000000
+      internalID: 2137149006071843508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dfee1ac3c4358b0800000000000000
+      internalID: -5164700524365284086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f98864b3233d50800000000000000
+      internalID: 6715750727094497769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1073df35bd708cb00800000000000000
+      internalID: 848937168347674369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89959f1166736cda0800000000000000
+      internalID: -5924987348231562856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1adf5026f76080800000000000000
+      internalID: -9194109495346061652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657f7202b51fff50800000000000000
+      internalID: 6917271406954640740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767ad19c680ecdc40800000000000000
+      internalID: 5538548511263270759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27310d333c12211a0800000000000000
+      internalID: -6840367761750748302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c8f91cea788b50800000000000000
+      internalID: 6595656808750696729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfd379e786d5dc90800000000000000
+      internalID: -7145569354527809604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2867d547bea7795e0800000000000000
+      internalID: -1902917165852559742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea16c5c5606be90800000000000000
+      internalID: -7010408776198935036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3cad531bdf0b3e0800000000000000
+      internalID: -2039851693644266519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4078f8b27da3f2460800000000000000
+      internalID: 7219053423521400580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ef7ab7585f69b0800000000000000
+      internalID: -5084748320463658051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91efe8490a0e94f90800000000000000
+      internalID: -6968791968087343591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a37b798d207bbb0800000000000000
+      internalID: -4920460938597418455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a14e60e93f0950800000000000000
+      internalID: 6417411630111498677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314f308a218630880800000000000000
+      internalID: -8645952430283688941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc58899488856860800000000000000
+      internalID: 7522568855685192954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca1d27046efc720800000000000000
+      internalID: 2868764652136934593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49bd810a935da560800000000000000
+      internalID: 7326604089717799243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4159ebe6d69498290800000000000000
+      internalID: -7887692538004466412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3420162f0bb840190800000000000000
+      internalID: -7997113446206209469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49643511a3f6fee60800000000000000
+      internalID: 7993730158795376276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586635a245ac30400800000000000000
+      internalID: 289297263918016133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ab2e0c8e96a5e0800000000000000
+      internalID: -1898655868519733286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38759fe5cd08d660800000000000000
+      internalID: 7410688330617419839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f819dc41a65e68c0800000000000000
+      internalID: -4004167767906772752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29c56e7a81be6fc0800000000000000
+      internalID: -3499664652036093652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be060dc4b1432c0800000000000000
+      internalID: -4452904114835100784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed373742e23c9c0800000000000000
+      internalID: -3908229317536784664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3e36c79db5d6e40800000000000000
+      internalID: 5651274097072792503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb999662edc18e0800000000000000
+      internalID: -1721256701000565131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f24384bfb9a8de60800000000000000
+      internalID: 7987320579973923568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4c8af14138e400800000000000000
+      internalID: 353586730194717788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71a4b66a09a3a090800000000000000
+      internalID: -8024384248906210946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c124d79e42d2760800000000000000
+      internalID: 7434639145106021441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df28b041142b0f00800000000000000
+      internalID: 1083999791831592915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d930f756833e250800000000000000
+      internalID: 5972679539397205263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b5764982fa1800800000000000000
+      internalID: 584045773104461372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6525d01dd9830e10800000000000000
+      internalID: 2162723828631151982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d25ea2786705200800000000000000
+      internalID: 166763509125033241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6261c5a3b930af3a0800000000000000
+      internalID: -6630983536115706330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fadc108282c5780800000000000000
+      internalID: -8693029028437839998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f94940dca26d3c80800000000000000
+      internalID: -8341402440451929608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1607154cc12b6f0800000000000000
+      internalID: -670441765019295271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a957c436ce2c480800000000000000
+      internalID: -8880275603992503760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d5aba5f0603bdb0800000000000000
+      internalID: -4777468116693525122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4102e3c953c889b10800000000000000
+      internalID: 1988493397366546452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aef49943f3f76c0800000000000000
+      internalID: -4143523637014566392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074d0da363571e5a0800000000000000
+      internalID: -6493780311916096400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b161a7a32d655c0800000000000000
+      internalID: -4226960051642426562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e24024202397c9b0800000000000000
+      internalID: -5059913890073132314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d3e163a112212a0800000000000000
+      internalID: -6768310893523616365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b44ad9c1096fb20800000000000000
+      internalID: 3167877840479996739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e18c46e66f8e070800000000000000
+      internalID: 8136023680842473119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e592c3d23bd86b0800000000000000
+      internalID: -5292376980226220398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4072d735be76a40800000000000000
+      internalID: 5361512625222386886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0eb5599a6b0ce0800000000000000
+      internalID: -1437938449213682329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8830eed888850530800000000000000
+      internalID: 3820609980329900173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98cdd3a484586600800000000000000
+      internalID: 461711890467113115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee30f38768bfd60800000000000000
+      internalID: 7925075820299939385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e666140b7570a60800000000000000
+      internalID: 7640171707380428420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e020ed2eee1c90800000000000000
+      internalID: -7197053273690281837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80727a42a13538b00800000000000000
+      internalID: 829598128115492616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b01688f8530670800000000000000
+      internalID: 8503738345830004234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e3700a3f6046f0800000000000000
+      internalID: -702439246963416100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d535d6c2b5c5f9f0800000000000000
+      internalID: -435224417340672553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be9e993469fc5a0800000000000000
+      internalID: -6498810520183116912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975502cde4fea3b30800000000000000
+      internalID: 4267986718866560377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e667ebe5a4848220800000000000000
+      internalID: 2487258742377637604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff94bc605aa6358d0800000000000000
+      internalID: -2858824081433998849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0225de7e00d574f0800000000000000
+      internalID: -831529795503971829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27600bb52e2f14cb0800000000000000
+      internalID: -4881353467078113678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17351fdb0602ac3b0800000000000000
+      internalID: -5491541195749239951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabcaf404e6513010800000000000000
+      internalID: 1166809315801746348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4311570585db0ede0800000000000000
+      internalID: -1305835704932822732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9f9e5c02108080800000000000000
+      internalID: -9187323395499384956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11f4b80183f36280800000000000000
+      internalID: -9051123090562158306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce30660e3cf475f0800000000000000
+      internalID: -759705093793628474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f6b4f45dcad820800000000000000
+      internalID: 2943891071206618983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c4aae81977d7e0800000000000000
+      internalID: -1740789583032564936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c73f45aa725970800000000000000
+      internalID: 8742184677096802202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d4b948d77975980800000000000000
+      internalID: -8550198802188120731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67cb1ebf92b16aa0800000000000000
+      internalID: -6169453615361833107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b88b43b7f88808d0800000000000000
+      internalID: -2879901364257060683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55187d2dbd5e36350800000000000000
+      internalID: 6008899060140310869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546ebfb25cd82450800000000000000
+      internalID: 6064339146216727643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c49989212719c20800000000000000
+      internalID: 3211473433487035408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e99e76e104d130800000000000000
+      internalID: 3590496892399248222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab84dc0a883f3ad0800000000000000
+      internalID: -2720393484336591964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0eb3b246e7555c0800000000000000
+      internalID: -4227333706530168630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eadf16c0d571480800000000000000
+      internalID: -8928565428473713109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f7ad15937f9f180800000000000000
+      internalID: -9080955348057424064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5666697e643fb45e0800000000000000
+      internalID: -1924176929912101275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aeb482e2ca428e0800000000000000
+      internalID: -1719059843504149889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5924d37ce0a46490800000000000000
+      internalID: -7753895721009141413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50245fb622364bbb0800000000000000
+      internalID: -4921199493317836283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d217e18dee27a660800000000000000
+      internalID: 7396932510600860370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c78843bf2e16b0800000000000000
+      internalID: -5323765262442839420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad514b64362547b0800000000000000
+      internalID: -5240740584796103249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7ebd74dcc280370800000000000000
+      internalID: 8288924374360909791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fed2f6299993ea0800000000000000
+      internalID: -5892509783228027013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97dc15543074aa0800000000000000
+      internalID: -6176964767655298591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f5c770d5e1d3d0800000000000000
+      internalID: -3183510778048808971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72110bd8788adf410800000000000000
+      internalID: 1512550350017532199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f704a70090f6c0800000000000000
+      internalID: -4111628097298108354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc2772c90fb7300800000000000000
+      internalID: 251058757716594512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03694a61347d950800000000000000
+      internalID: 6473716753898025168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b34ab3b5aa8b080800000000000000
+      internalID: -9171393332320650451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4de29bf950aa70800000000000000
+      internalID: 8836161405937601711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977e3d6fbabc7090800000000000000
+      internalID: -8035342303801477226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fcaf6814b627450800000000000000
+      internalID: 6085043975712591632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d66f746b847e10800000000000000
+      internalID: 2194532182186710923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da1888a7da125060800000000000000
+      internalID: 6940639489279138515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446166f19c1552b90800000000000000
+      internalID: -7267312499435366844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd76b174ccf090890800000000000000
+      internalID: -7491439135113386020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740309c63341db60800000000000000
+      internalID: 7769064734770529394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd2c4542e0a407c0800000000000000
+      internalID: -4105980066569376305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec0624d45481c060800000000000000
+      internalID: 6971999198017621227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_187
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c273ebaa5d2d0cb30800000000000000
+      internalID: 4305673058900653868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9c4dc19d9ede740800000000000000
+      internalID: 5183055864874191340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_189
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc46738c1c30cca0800000000000000
+      internalID: -5998728610495181611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_190
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7a862a164f3d90800000000000000
+      internalID: -7115891808092390263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_191
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d699731eed05998d0800000000000000
+      internalID: -2839149171888907923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565e40bca34acacf0800000000000000
+      internalID: -239636107736324763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_193
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404c7b83d0e3f06b0800000000000000
+      internalID: -5327971607648943100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bdeeea2c5cbf1b0800000000000000
+      internalID: -5621682269892715664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_195
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e73cf0311fddd0800000000000000
+      internalID: -2459227969433378362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f56e70111c43760800000000000000
+      internalID: 7436781163586674506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3280a07d2372450800000000000000
+      internalID: 6063871322445325303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a95fc13c9457b0800000000000000
+      internalID: -5236388728978954563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d30e655754f060800000000000000
+      internalID: 6986304946388062557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26451e76f42085830800000000000000
+      internalID: 4059997604142994530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7609c52a4971d350800000000000000
+      internalID: 6039741934649017978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a510b6fff191c0640800000000000000
+      internalID: 5047436907595366746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79655bded9a80acf0800000000000000
+      internalID: -243041968975423849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95653c780d82cde70800000000000000
+      internalID: 9141226219751298649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd3053ae11e545b0800000000000000
+      internalID: -5384650257746346569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb2c9378c4d454d0800000000000000
+      internalID: -3146656282226971674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_tiles_by_ekat99_deidjjj_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cece335b146d0b340800000000000000
+      internalID: 4877633974143544556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      volcano_tiles_by_ekat99_deidjjj_0: -1998506244079976963
+      volcano_tiles_by_ekat99_deidjjj_1: -4509376007318827781
+      volcano_tiles_by_ekat99_deidjjj_10: 7878350336945107685
+      volcano_tiles_by_ekat99_deidjjj_100: 7987320579973923568
+      volcano_tiles_by_ekat99_deidjjj_101: 353586730194717788
+      volcano_tiles_by_ekat99_deidjjj_102: -8024384248906210946
+      volcano_tiles_by_ekat99_deidjjj_103: 7434639145106021441
+      volcano_tiles_by_ekat99_deidjjj_104: 1083999791831592915
+      volcano_tiles_by_ekat99_deidjjj_105: 5972679539397205263
+      volcano_tiles_by_ekat99_deidjjj_106: 584045773104461372
+      volcano_tiles_by_ekat99_deidjjj_107: 2162723828631151982
+      volcano_tiles_by_ekat99_deidjjj_108: 166763509125033241
+      volcano_tiles_by_ekat99_deidjjj_109: -6630983536115706330
+      volcano_tiles_by_ekat99_deidjjj_11: 7448865310400479387
+      volcano_tiles_by_ekat99_deidjjj_110: -8693029028437839998
+      volcano_tiles_by_ekat99_deidjjj_111: -8341402440451929608
+      volcano_tiles_by_ekat99_deidjjj_112: -670441765019295271
+      volcano_tiles_by_ekat99_deidjjj_113: -8880275603992503760
+      volcano_tiles_by_ekat99_deidjjj_114: -4777468116693525122
+      volcano_tiles_by_ekat99_deidjjj_115: 1988493397366546452
+      volcano_tiles_by_ekat99_deidjjj_116: -4143523637014566392
+      volcano_tiles_by_ekat99_deidjjj_117: -6493780311916096400
+      volcano_tiles_by_ekat99_deidjjj_118: -4226960051642426562
+      volcano_tiles_by_ekat99_deidjjj_119: -5059913890073132314
+      volcano_tiles_by_ekat99_deidjjj_12: 7577075429356571560
+      volcano_tiles_by_ekat99_deidjjj_120: -6768310893523616365
+      volcano_tiles_by_ekat99_deidjjj_121: 3167877840479996739
+      volcano_tiles_by_ekat99_deidjjj_122: 8136023680842473119
+      volcano_tiles_by_ekat99_deidjjj_123: -5292376980226220398
+      volcano_tiles_by_ekat99_deidjjj_124: 5361512625222386886
+      volcano_tiles_by_ekat99_deidjjj_125: -1437938449213682329
+      volcano_tiles_by_ekat99_deidjjj_126: 3820609980329900173
+      volcano_tiles_by_ekat99_deidjjj_127: 461711890467113115
+      volcano_tiles_by_ekat99_deidjjj_128: 7925075820299939385
+      volcano_tiles_by_ekat99_deidjjj_129: 7640171707380428420
+      volcano_tiles_by_ekat99_deidjjj_13: 2172059522902893315
+      volcano_tiles_by_ekat99_deidjjj_130: -7197053273690281837
+      volcano_tiles_by_ekat99_deidjjj_131: 829598128115492616
+      volcano_tiles_by_ekat99_deidjjj_132: 8503738345830004234
+      volcano_tiles_by_ekat99_deidjjj_133: -702439246963416100
+      volcano_tiles_by_ekat99_deidjjj_134: -435224417340672553
+      volcano_tiles_by_ekat99_deidjjj_135: -6498810520183116912
+      volcano_tiles_by_ekat99_deidjjj_136: 4267986718866560377
+      volcano_tiles_by_ekat99_deidjjj_137: 2487258742377637604
+      volcano_tiles_by_ekat99_deidjjj_138: -2858824081433998849
+      volcano_tiles_by_ekat99_deidjjj_139: -831529795503971829
+      volcano_tiles_by_ekat99_deidjjj_14: 4077586032625730498
+      volcano_tiles_by_ekat99_deidjjj_140: -4881353467078113678
+      volcano_tiles_by_ekat99_deidjjj_141: -5491541195749239951
+      volcano_tiles_by_ekat99_deidjjj_142: 1166809315801746348
+      volcano_tiles_by_ekat99_deidjjj_143: -1305835704932822732
+      volcano_tiles_by_ekat99_deidjjj_144: -9187323395499384956
+      volcano_tiles_by_ekat99_deidjjj_145: -9051123090562158306
+      volcano_tiles_by_ekat99_deidjjj_146: -759705093793628474
+      volcano_tiles_by_ekat99_deidjjj_147: 2943891071206618983
+      volcano_tiles_by_ekat99_deidjjj_148: -1740789583032564936
+      volcano_tiles_by_ekat99_deidjjj_149: 8742184677096802202
+      volcano_tiles_by_ekat99_deidjjj_15: -7870110198391296688
+      volcano_tiles_by_ekat99_deidjjj_150: -8550198802188120731
+      volcano_tiles_by_ekat99_deidjjj_151: -6169453615361833107
+      volcano_tiles_by_ekat99_deidjjj_152: -2879901364257060683
+      volcano_tiles_by_ekat99_deidjjj_153: 6008899060140310869
+      volcano_tiles_by_ekat99_deidjjj_154: 6064339146216727643
+      volcano_tiles_by_ekat99_deidjjj_155: 3211473433487035408
+      volcano_tiles_by_ekat99_deidjjj_156: 3590496892399248222
+      volcano_tiles_by_ekat99_deidjjj_157: -2720393484336591964
+      volcano_tiles_by_ekat99_deidjjj_158: -4227333706530168630
+      volcano_tiles_by_ekat99_deidjjj_159: -8928565428473713109
+      volcano_tiles_by_ekat99_deidjjj_16: 4263024764793648432
+      volcano_tiles_by_ekat99_deidjjj_160: -9080955348057424064
+      volcano_tiles_by_ekat99_deidjjj_161: -1924176929912101275
+      volcano_tiles_by_ekat99_deidjjj_162: -1719059843504149889
+      volcano_tiles_by_ekat99_deidjjj_163: -7753895721009141413
+      volcano_tiles_by_ekat99_deidjjj_164: -4921199493317836283
+      volcano_tiles_by_ekat99_deidjjj_165: 7396932510600860370
+      volcano_tiles_by_ekat99_deidjjj_166: -5323765262442839420
+      volcano_tiles_by_ekat99_deidjjj_167: -5240740584796103249
+      volcano_tiles_by_ekat99_deidjjj_168: 8288924374360909791
+      volcano_tiles_by_ekat99_deidjjj_169: -5892509783228027013
+      volcano_tiles_by_ekat99_deidjjj_17: -7714100469764936917
+      volcano_tiles_by_ekat99_deidjjj_170: -6176964767655298591
+      volcano_tiles_by_ekat99_deidjjj_171: -3183510778048808971
+      volcano_tiles_by_ekat99_deidjjj_172: 1512550350017532199
+      volcano_tiles_by_ekat99_deidjjj_173: -4111628097298108354
+      volcano_tiles_by_ekat99_deidjjj_174: 251058757716594512
+      volcano_tiles_by_ekat99_deidjjj_175: 6473716753898025168
+      volcano_tiles_by_ekat99_deidjjj_176: -9171393332320650451
+      volcano_tiles_by_ekat99_deidjjj_177: 8836161405937601711
+      volcano_tiles_by_ekat99_deidjjj_178: -8035342303801477226
+      volcano_tiles_by_ekat99_deidjjj_179: 6085043975712591632
+      volcano_tiles_by_ekat99_deidjjj_18: -2559231882999986235
+      volcano_tiles_by_ekat99_deidjjj_180: 2194532182186710923
+      volcano_tiles_by_ekat99_deidjjj_181: 6940639489279138515
+      volcano_tiles_by_ekat99_deidjjj_182: -7267312499435366844
+      volcano_tiles_by_ekat99_deidjjj_183: -7491439135113386020
+      volcano_tiles_by_ekat99_deidjjj_184: 7769064734770529394
+      volcano_tiles_by_ekat99_deidjjj_185: -4105980066569376305
+      volcano_tiles_by_ekat99_deidjjj_186: 6971999198017621227
+      volcano_tiles_by_ekat99_deidjjj_187: 4305673058900653868
+      volcano_tiles_by_ekat99_deidjjj_188: 5183055864874191340
+      volcano_tiles_by_ekat99_deidjjj_189: -5998728610495181611
+      volcano_tiles_by_ekat99_deidjjj_19: 7694704192067270166
+      volcano_tiles_by_ekat99_deidjjj_190: -7115891808092390263
+      volcano_tiles_by_ekat99_deidjjj_191: -2839149171888907923
+      volcano_tiles_by_ekat99_deidjjj_192: -239636107736324763
+      volcano_tiles_by_ekat99_deidjjj_193: -5327971607648943100
+      volcano_tiles_by_ekat99_deidjjj_194: -5621682269892715664
+      volcano_tiles_by_ekat99_deidjjj_195: -2459227969433378362
+      volcano_tiles_by_ekat99_deidjjj_196: 7436781163586674506
+      volcano_tiles_by_ekat99_deidjjj_197: 6063871322445325303
+      volcano_tiles_by_ekat99_deidjjj_198: -5236388728978954563
+      volcano_tiles_by_ekat99_deidjjj_199: 6986304946388062557
+      volcano_tiles_by_ekat99_deidjjj_2: -603376178071726661
+      volcano_tiles_by_ekat99_deidjjj_20: 2039233827941441350
+      volcano_tiles_by_ekat99_deidjjj_200: 4059997604142994530
+      volcano_tiles_by_ekat99_deidjjj_201: 6039741934649017978
+      volcano_tiles_by_ekat99_deidjjj_202: 5047436907595366746
+      volcano_tiles_by_ekat99_deidjjj_203: -243041968975423849
+      volcano_tiles_by_ekat99_deidjjj_204: 9141226219751298649
+      volcano_tiles_by_ekat99_deidjjj_205: -5384650257746346569
+      volcano_tiles_by_ekat99_deidjjj_206: -3146656282226971674
+      volcano_tiles_by_ekat99_deidjjj_207: 4877633974143544556
+      volcano_tiles_by_ekat99_deidjjj_21: -1707553561197237107
+      volcano_tiles_by_ekat99_deidjjj_22: -6850355642236505116
+      volcano_tiles_by_ekat99_deidjjj_23: 3998301214302855820
+      volcano_tiles_by_ekat99_deidjjj_24: 6106962715107483213
+      volcano_tiles_by_ekat99_deidjjj_25: 5650720271602049646
+      volcano_tiles_by_ekat99_deidjjj_26: 3689902083789816432
+      volcano_tiles_by_ekat99_deidjjj_27: 2564141305520978169
+      volcano_tiles_by_ekat99_deidjjj_28: -2152571106164101117
+      volcano_tiles_by_ekat99_deidjjj_29: -2622619213912374418
+      volcano_tiles_by_ekat99_deidjjj_3: 2437369764968758639
+      volcano_tiles_by_ekat99_deidjjj_30: -7016332803414649276
+      volcano_tiles_by_ekat99_deidjjj_31: -4534684555770587486
+      volcano_tiles_by_ekat99_deidjjj_32: 6218853588198710898
+      volcano_tiles_by_ekat99_deidjjj_33: 3424004606912021249
+      volcano_tiles_by_ekat99_deidjjj_34: -5936708485972199506
+      volcano_tiles_by_ekat99_deidjjj_35: -2945640964689059851
+      volcano_tiles_by_ekat99_deidjjj_36: 5411972346505311861
+      volcano_tiles_by_ekat99_deidjjj_37: 8018686631889868241
+      volcano_tiles_by_ekat99_deidjjj_38: 5141724022566413362
+      volcano_tiles_by_ekat99_deidjjj_39: -4460995693072846576
+      volcano_tiles_by_ekat99_deidjjj_4: -2714851523389864200
+      volcano_tiles_by_ekat99_deidjjj_40: 6834555097243634184
+      volcano_tiles_by_ekat99_deidjjj_41: 6137826086460729716
+      volcano_tiles_by_ekat99_deidjjj_42: 1567248751313346612
+      volcano_tiles_by_ekat99_deidjjj_43: -9175220979957460016
+      volcano_tiles_by_ekat99_deidjjj_44: 7252708068673038294
+      volcano_tiles_by_ekat99_deidjjj_45: -2312977581296991539
+      volcano_tiles_by_ekat99_deidjjj_46: -8740191339870443716
+      volcano_tiles_by_ekat99_deidjjj_47: -8779921817402876366
+      volcano_tiles_by_ekat99_deidjjj_48: 8489918940994533365
+      volcano_tiles_by_ekat99_deidjjj_49: 8781780591212709133
+      volcano_tiles_by_ekat99_deidjjj_5: -5470608728888791727
+      volcano_tiles_by_ekat99_deidjjj_50: -6386406093423900006
+      volcano_tiles_by_ekat99_deidjjj_51: -1077230051887639911
+      volcano_tiles_by_ekat99_deidjjj_52: -1540379091446422697
+      volcano_tiles_by_ekat99_deidjjj_53: -8271466397205430137
+      volcano_tiles_by_ekat99_deidjjj_54: 8887173482954456225
+      volcano_tiles_by_ekat99_deidjjj_55: 4838164682663421457
+      volcano_tiles_by_ekat99_deidjjj_56: -1616450157062043697
+      volcano_tiles_by_ekat99_deidjjj_57: -4267105402484613062
+      volcano_tiles_by_ekat99_deidjjj_58: -3376020499591283493
+      volcano_tiles_by_ekat99_deidjjj_59: 2885126336011879338
+      volcano_tiles_by_ekat99_deidjjj_6: 6617554939326780513
+      volcano_tiles_by_ekat99_deidjjj_60: 6102118412525132890
+      volcano_tiles_by_ekat99_deidjjj_61: -511124673524524936
+      volcano_tiles_by_ekat99_deidjjj_62: 7235106874515255000
+      volcano_tiles_by_ekat99_deidjjj_63: 3283853980871810709
+      volcano_tiles_by_ekat99_deidjjj_64: 3921438774118019428
+      volcano_tiles_by_ekat99_deidjjj_65: 2137149006071843508
+      volcano_tiles_by_ekat99_deidjjj_66: -5164700524365284086
+      volcano_tiles_by_ekat99_deidjjj_67: 6715750727094497769
+      volcano_tiles_by_ekat99_deidjjj_68: 848937168347674369
+      volcano_tiles_by_ekat99_deidjjj_69: -5924987348231562856
+      volcano_tiles_by_ekat99_deidjjj_7: 1301684050663961299
+      volcano_tiles_by_ekat99_deidjjj_70: -9194109495346061652
+      volcano_tiles_by_ekat99_deidjjj_71: 6917271406954640740
+      volcano_tiles_by_ekat99_deidjjj_72: 5538548511263270759
+      volcano_tiles_by_ekat99_deidjjj_73: -6840367761750748302
+      volcano_tiles_by_ekat99_deidjjj_74: 6595656808750696729
+      volcano_tiles_by_ekat99_deidjjj_75: -7145569354527809604
+      volcano_tiles_by_ekat99_deidjjj_76: -1902917165852559742
+      volcano_tiles_by_ekat99_deidjjj_77: -7010408776198935036
+      volcano_tiles_by_ekat99_deidjjj_78: -2039851693644266519
+      volcano_tiles_by_ekat99_deidjjj_79: 7219053423521400580
+      volcano_tiles_by_ekat99_deidjjj_8: 1754852205428867753
+      volcano_tiles_by_ekat99_deidjjj_80: -5084748320463658051
+      volcano_tiles_by_ekat99_deidjjj_81: -6968791968087343591
+      volcano_tiles_by_ekat99_deidjjj_82: -4920460938597418455
+      volcano_tiles_by_ekat99_deidjjj_83: 6417411630111498677
+      volcano_tiles_by_ekat99_deidjjj_84: -8645952430283688941
+      volcano_tiles_by_ekat99_deidjjj_85: 7522568855685192954
+      volcano_tiles_by_ekat99_deidjjj_86: 2868764652136934593
+      volcano_tiles_by_ekat99_deidjjj_87: 7326604089717799243
+      volcano_tiles_by_ekat99_deidjjj_88: -7887692538004466412
+      volcano_tiles_by_ekat99_deidjjj_89: -7997113446206209469
+      volcano_tiles_by_ekat99_deidjjj_9: 3715271234653121893
+      volcano_tiles_by_ekat99_deidjjj_90: 7993730158795376276
+      volcano_tiles_by_ekat99_deidjjj_91: 289297263918016133
+      volcano_tiles_by_ekat99_deidjjj_92: -1898655868519733286
+      volcano_tiles_by_ekat99_deidjjj_93: 7410688330617419839
+      volcano_tiles_by_ekat99_deidjjj_94: -4004167767906772752
+      volcano_tiles_by_ekat99_deidjjj_95: -3499664652036093652
+      volcano_tiles_by_ekat99_deidjjj_96: -4452904114835100784
+      volcano_tiles_by_ekat99_deidjjj_97: -3908229317536784664
+      volcano_tiles_by_ekat99_deidjjj_98: 5651274097072792503
+      volcano_tiles_by_ekat99_deidjjj_99: -1721256701000565131
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

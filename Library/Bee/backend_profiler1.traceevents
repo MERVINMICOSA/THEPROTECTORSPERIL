@@ -1,0 +1,545 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1737254822888232, "dur":2611, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254822890856, "dur":129, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1737254822891046, "dur":36, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1737254822891085, "dur":451, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1737254822891576, "dur":1114, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254822892690, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241057, "dur":272, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241329, "dur":34, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241363, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241368, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241384, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241389, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241408, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241413, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241427, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241432, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241444, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241448, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241462, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241466, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241480, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241484, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241497, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241525, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833241568, "dur":2942, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1737254822892239, "dur":461, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254822892706, "dur":8746, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254822901467, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1737254822901480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254822903738, "dur":643, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1737254822904387, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1737254822904479, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254822905377, "dur":4445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1737254822909827, "dur":867575, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1737254823777416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254823777430, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1737254823779384, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1737254823779551, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254823780219, "dur":81106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1737254823861400, "dur":93879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254823955287, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254823956030, "dur":1896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254823958014, "dur":71835, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824029861, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254824029874, "dur":1780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824031709, "dur":171618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824203336, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254824203349, "dur":1654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824205068, "dur":189514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824394592, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254824394608, "dur":1945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824396660, "dur":72785, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824469455, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254824469471, "dur":1756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824471302, "dur":82159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824553472, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254824553486, "dur":2328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824555924, "dur":182438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824738405, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254824738421, "dur":40572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824779062, "dur":179298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824958368, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254824958390, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254824960246, "dur":81523, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825041779, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825041793, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825043545, "dur":135175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825178729, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825178750, "dur":1839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825180664, "dur":122762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825303434, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825303447, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825305242, "dur":72603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825377854, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825377867, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825379743, "dur":145358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825525109, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825525130, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825527045, "dur":62267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825589322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825589334, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825591287, "dur":112167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825703471, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825703484, "dur":2124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825705675, "dur":73890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825779582, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825779594, "dur":1764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825781422, "dur":64211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825845639, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825845650, "dur":1583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825847296, "dur":149593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825996907, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254825996919, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254825998811, "dur":308615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826307435, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254826307448, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826309411, "dur":286591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826596011, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254826596024, "dur":1857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826597949, "dur":102846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826700805, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254826700820, "dur":1933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826702822, "dur":2568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826705399, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254826705414, "dur":2987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826708503, "dur":82047, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826790559, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254826790573, "dur":1744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254826792418, "dur":359529, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827151957, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827151970, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827153892, "dur":149176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827303078, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827303091, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827305057, "dur":97935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827403001, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827403014, "dur":1575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827404656, "dur":45733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827450398, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827450412, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827452114, "dur":508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827452628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827452638, "dur":1610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827454314, "dur":596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827454917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827454931, "dur":1748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827456778, "dur":115094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827571882, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827571895, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827573903, "dur":330173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827904087, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254827904103, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254827906335, "dur":260644, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828166989, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254828167002, "dur":1618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828168684, "dur":317027, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828485722, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254828485739, "dur":2614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828488452, "dur":76266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828564729, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254828564745, "dur":1780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828566591, "dur":141536, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828708136, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254828708153, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828710159, "dur":163820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828873988, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254828874001, "dur":1689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828875755, "dur":48494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828924260, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254828924277, "dur":2216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828926584, "dur":10334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828936925, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254828936940, "dur":8030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254828945096, "dur":204109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254829149214, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829149226, "dur":1994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/DOTween.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737254829151302, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1737254829151391, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829151475, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1737254829153636, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829153712, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829153721, "dur":1913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829155695, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829155757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829155765, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829157555, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829157663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829157675, "dur":2013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829159751, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829159811, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829159817, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829161691, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829161798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829161808, "dur":2281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829164179, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829164272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829164281, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829166976, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829167071, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829167080, "dur":2338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829169510, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829169603, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829169612, "dur":2971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1737254829172695, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1737254829172809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829172820, "dur":4225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1737254829177119, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829177194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829177204, "dur":3875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1737254829181215, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1737254829181661, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829181682, "dur":3726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1737254829185596, "dur":19958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1737254829205564, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829205579, "dur":3416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1737254829209097, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level6" }}
+,{ "pid":12345, "tid":1, "ts":1737254829209195, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829209207, "dur":4431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level6" }}
+,{ "pid":12345, "tid":1, "ts":1737254829213741, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1737254829213965, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829213978, "dur":4542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1737254829218622, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1737254829218730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829218743, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1737254829221146, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1737254829221271, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737254829221284, "dur":2366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1737254829223758, "dur":4017298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737254822892308, "dur":440, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737254822892748, "dur":8710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737254822901467, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1737254822901800, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737254822918361, "dur":49956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1737254822968396, "dur":285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1737254822968686, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737254822968703, "dur":44998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1737254823013786, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1737254823013961, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737254823013973, "dur":94936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1737254823108985, "dur":10116681, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737254833225674, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737254833225685, "dur":15195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737254833240984, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1737254833240991, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737254822892316, "dur":460, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737254822892776, "dur":8696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737254822901472, "dur":129130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1737254823030611, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737254823030649, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1737254823032829, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1737254823033082, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737254823033097, "dur":155252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1737254823188441, "dur":6359989, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":3, "ts":1737254829548438, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737254829548450, "dur":2822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":3, "ts":1737254829551393, "dur":3689640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254822892278, "dur":436, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254822892715, "dur":8745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254822901468, "dur":875922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1737254823777398, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254823777435, "dur":1886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1737254823779427, "dur":225867, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824005303, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824005489, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824007155, "dur":99508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824106672, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824106685, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824108306, "dur":82582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824190898, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824190911, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824192862, "dur":201891, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824394759, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824394768, "dur":1960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824396832, "dur":92745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824489585, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824489597, "dur":2002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824491669, "dur":80149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824571828, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824571845, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824573689, "dur":130066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824703764, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824703776, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824705495, "dur":98908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824804411, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254824804423, "dur":1564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254824806051, "dur":1035084, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254825841143, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254825841156, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254825843630, "dur":212086, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826055723, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826055742, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826057585, "dur":193689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826251284, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826251300, "dur":2329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826253699, "dur":115938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826369647, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826369660, "dur":1668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826371395, "dur":99844, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826471247, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826471260, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826473026, "dur":70270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826543315, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826543337, "dur":1948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826545345, "dur":108481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826653836, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826653853, "dur":1979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826655899, "dur":89031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826744940, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826744955, "dur":1982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826747004, "dur":100404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826847450, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254826847463, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254826849095, "dur":363042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827212146, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254827212160, "dur":1755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827214001, "dur":271630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827485647, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254827485660, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827487450, "dur":100639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827588098, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254827588118, "dur":1595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827589770, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827590042, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254827590051, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254827591538, "dur":508139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828099688, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254828099703, "dur":2020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828101792, "dur":225420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828327221, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254828327242, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828329172, "dur":457385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828786567, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254828786580, "dur":2505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828789175, "dur":5704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828794889, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254828794905, "dur":3661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254828798703, "dur":680018, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254829478732, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737254829478751, "dur":3221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737254829482043, "dur":3758992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254822892378, "dur":454, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254822892833, "dur":8620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254822901467, "dur":1194517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1737254824095993, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254824096565, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1737254824098018, "dur":184764, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824282790, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254824282804, "dur":1701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824284565, "dur":202463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824487038, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254824487051, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824488982, "dur":70176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824559167, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254824559179, "dur":1592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824560837, "dur":116676, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824677522, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254824677535, "dur":2005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824679646, "dur":196689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824876344, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254824876357, "dur":1753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824878175, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824878682, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254824878691, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254824880545, "dur":125531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825006093, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825006106, "dur":1839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825008013, "dur":23682, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825031703, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825031716, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825034052, "dur":61568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825095628, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825095649, "dur":1843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825097556, "dur":140454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825238019, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825238032, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825239880, "dur":87506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825327395, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825327409, "dur":1831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825329311, "dur":91072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825420391, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825420405, "dur":1809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825422276, "dur":58249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825480542, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825480562, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825482310, "dur":411754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825894081, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254825894102, "dur":1713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254825895874, "dur":147192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826043075, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826043088, "dur":1981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826045139, "dur":149912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826195061, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826195078, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826197874, "dur":129632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826327516, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826327532, "dur":2037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826329668, "dur":89768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826419445, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826419499, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826421656, "dur":59631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826481295, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826481307, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826482979, "dur":170869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826653853, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826653862, "dur":2109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826656072, "dur":66568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826722650, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826722662, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826724325, "dur":84351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826808686, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254826808699, "dur":1632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254826810396, "dur":455219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827265624, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254827265636, "dur":1857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827267613, "dur":91610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827359231, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254827359244, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827360954, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827361306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254827361318, "dur":2096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827363487, "dur":687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827364182, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254827364197, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827366617, "dur":131329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827497992, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254827498003, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827500020, "dur":142432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827642460, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254827642480, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254827644138, "dur":946916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828591063, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254828591075, "dur":3336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828594482, "dur":256382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828850872, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254828850890, "dur":3333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828854321, "dur":2592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828856923, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254828856977, "dur":2900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828859955, "dur":381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828860342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254828860356, "dur":2179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254828862637, "dur":296921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254829159567, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829159582, "dur":2057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737254829161707, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829161778, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829161787, "dur":2081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829163968, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829164075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829164087, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829166731, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829166837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829166849, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829169258, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829169364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829169424, "dur":2430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829171959, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829172060, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829172074, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829174444, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1737254829174806, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829174820, "dur":20162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1737254829195089, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1737254829195267, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829195279, "dur":4991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1737254829200372, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829200599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829200611, "dur":2253, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829202962, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level8" }}
+,{ "pid":12345, "tid":5, "ts":1737254829203066, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829203077, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level8" }}
+,{ "pid":12345, "tid":5, "ts":1737254829205718, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level7" }}
+,{ "pid":12345, "tid":5, "ts":1737254829205813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829205822, "dur":3315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level7" }}
+,{ "pid":12345, "tid":5, "ts":1737254829209227, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level5" }}
+,{ "pid":12345, "tid":5, "ts":1737254829209317, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829209326, "dur":2516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level5" }}
+,{ "pid":12345, "tid":5, "ts":1737254829211950, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level4" }}
+,{ "pid":12345, "tid":5, "ts":1737254829212047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829212059, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level4" }}
+,{ "pid":12345, "tid":5, "ts":1737254829214222, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1737254829214328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829214337, "dur":2129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1737254829216578, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1737254829216691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829216705, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1737254829218972, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829219082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829219092, "dur":3274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1737254829222459, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1737254829222735, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737254829222748, "dur":2228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1737254829225073, "dur":4015980, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254822892357, "dur":447, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254822892805, "dur":8668, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254822901474, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1737254822901773, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254822917097, "dur":89391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1737254823006563, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1737254823006725, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254823006819, "dur":1877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1737254823008812, "dur":578757, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1737254823587577, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254823587592, "dur":2900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1737254823590565, "dur":4957820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL.exe" }}
+,{ "pid":12345, "tid":6, "ts":1737254828548394, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254828548408, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL.exe" }}
+,{ "pid":12345, "tid":6, "ts":1737254828550935, "dur":283859, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254828834804, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254828834821, "dur":18517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254828853438, "dur":164553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254829018003, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254829018016, "dur":1786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254829019869, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254829020262, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254829020274, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254829022208, "dur":367767, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Plugins/x86/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254829389984, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737254829391132, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Plugins/x86/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737254829392709, "dur":3848320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254822892430, "dur":431, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254822892861, "dur":8613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254822901475, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1737254822901806, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254822919565, "dur":26258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1737254822945912, "dur":84703, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1737254823030621, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254823030644, "dur":2203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1737254823032936, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1737254823033086, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254823033095, "dur":46577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1737254823079748, "dur":5850243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737254828930000, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254828930149, "dur":5772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737254828936126, "dur":534174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737254829470309, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737254829470322, "dur":2107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737254829472498, "dur":3768529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254822892508, "dur":381, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254822892890, "dur":8580, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254822901471, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1737254822901771, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254822906024, "dur":27821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1737254822933929, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1737254822934109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254822934212, "dur":49311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1737254822983594, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1737254822983755, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254822984705, "dur":2293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1737254822987078, "dur":56097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1737254823043191, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254823043204, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1737254823044910, "dur":5503795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737254828548710, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254828549380, "dur":2221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737254828551702, "dur":189532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737254828741244, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254828741261, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737254828743046, "dur":605262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737254829348317, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737254829348373, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/LenovoPc/Desktop/try1/THEPROTECTORSPERIL_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737254829350893, "dur":3890161, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737254833248259, "dur":3875, "ph":"X", "name": "ProfilerWriteOutput" }
+,

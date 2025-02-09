@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeTown1.unity
+    guid: 44d359567c06d77478c9391a88e12555
+  - enabled: 1
+    path: Assets/Scenes/House1.unity
+    guid: 2902d1205144a184d8e4012df2be300d
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 28a24ef4068c09b4e9bf9a7dc95d1eca
+  - enabled: 1
+    path: Assets/Scenes/Ice cave.unity
+    guid: bee18e4793d075d45bb744e0f7577801
+  - enabled: 1
+    path: Assets/Scenes/Lava Cave.unity
+    guid: 5eb2096c5f33efe4b9f4636217058fb2
+  - enabled: 1
+    path: Assets/Scenes/Route1.unity
+    guid: 909df9439b466354183edb61661eebc4
+  - enabled: 1
+    path: Assets/Scenes/Route2.unity
+    guid: a131927c1129a8b4d915bcd5aff390c1
+  - enabled: 1
+    path: Assets/Scenes/Route3.unity
+    guid: 547794c785fe47d49a59f6430fdd8731
+  - enabled: 1
+    path: Assets/Scenes/Route4.unity
+    guid: 93d8a76a28e76714b9962e4ce996ba98
+  m_configObjects: {}

@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: dcd58309ce3fe634888a391f94083e66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2923504887750916373
+    second: trainer3_0
+  - first:
+      213: 7401708073093611191
+    second: trainer3_1
+  - first:
+      213: -3931409817017974870
+    second: trainer3_2
+  - first:
+      213: -2112365046194056725
+    second: trainer3_3
+  - first:
+      213: 8834003940287671082
+    second: trainer3_4
+  - first:
+      213: -7339412496178171301
+    second: trainer3_5
+  - first:
+      213: 5329687049354338136
+    second: trainer3_6
+  - first:
+      213: -3688672924916258685
+    second: trainer3_7
+  - first:
+      213: 2116659921899848567
+    second: trainer3_8
+  - first:
+      213: 4992335059227295725
+    second: trainer3_9
+  - first:
+      213: -8344924561529922887
+    second: trainer3_10
+  - first:
+      213: -1213213882331062348
+    second: trainer3_11
+  - first:
+      213: -5618546039104822458
+    second: trainer3_12
+  - first:
+      213: 6874457966780707479
+    second: trainer3_13
+  - first:
+      213: 4709545241044915175
+    second: trainer3_14
+  - first:
+      213: -341596801386516659
+    second: trainer3_15
+  - first:
+      213: -2733852379852809460
+    second: trainer3_16
+  - first:
+      213: 7929092125487110378
+    second: trainer3_17
+  - first:
+      213: 4015960425294369513
+    second: trainer3_18
+  - first:
+      213: 8974124277085055109
+    second: trainer3_19
+  - first:
+      213: 6993032631071321259
+    second: trainer3_20
+  - first:
+      213: 3696964655254710612
+    second: trainer3_21
+  - first:
+      213: -1134353327501404493
+    second: trainer3_22
+  - first:
+      213: -2102790692308639742
+    second: trainer3_23
+  - first:
+      213: 3159431008509102371
+    second: trainer3_24
+  - first:
+      213: 7142809076199336326
+    second: trainer3_25
+  - first:
+      213: 9106708134535593427
+    second: trainer3_26
+  - first:
+      213: 2733015015273743103
+    second: trainer3_27
+  - first:
+      213: -5416817259927231375
+    second: trainer3_28
+  - first:
+      213: -3620989640291880964
+    second: trainer3_29
+  - first:
+      213: 2185498495387645782
+    second: trainer3_30
+  - first:
+      213: 4398210075156156834
+    second: trainer3_31
+  - first:
+      213: 2654683266260616176
+    second: trainer3_32
+  - first:
+      213: 8509333100244848051
+    second: trainer3_33
+  - first:
+      213: -7762181621749577798
+    second: trainer3_34
+  - first:
+      213: -7160939999203495915
+    second: trainer3_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trainer3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60d724bcf9d67d0800000000000000
+      internalID: -2923504887750916373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 100
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb2ebc64628b660800000000000000
+      internalID: 7401708073093611191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 100
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaff826d993d079c0800000000000000
+      internalID: -3931409817017974870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1d6a9ae2f5fa2e0800000000000000
+      internalID: -2112365046194056725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b6f3577cfa89a70800000000000000
+      internalID: 8834003940287671082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52bc39783b252a90800000000000000
+      internalID: -7339412496178171301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fd3cc222ad6f940800000000000000
+      internalID: 5329687049354338136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 28
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e3c9a4833fccc0800000000000000
+      internalID: -3688672924916258685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trainer3_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 28
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77385230cf2ef5d10800000000000000
+      internalID: 2116659921899848567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trainer3_0: -2923504887750916373
+      trainer3_1: 7401708073093611191
+      trainer3_2: -3931409817017974870
+      trainer3_3: -2112365046194056725
+      trainer3_4: 8834003940287671082
+      trainer3_5: -7339412496178171301
+      trainer3_6: 5329687049354338136
+      trainer3_7: -3688672924916258685
+      trainer3_8: 2116659921899848567
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

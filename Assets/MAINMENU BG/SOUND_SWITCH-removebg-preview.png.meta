@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 0d98b8d0e14b1f84894f691d950db9fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4846013297030400482
+    second: SOUND_SWITCH-removebg-preview_0
+  - first:
+      213: 6543501214626004943
+    second: SOUND_SWITCH-removebg-preview_1
+  - first:
+      213: 2749244593007702273
+    second: SOUND_SWITCH-removebg-preview_2
+  - first:
+      213: 3075484696178538875
+    second: SOUND_SWITCH-removebg-preview_3
+  - first:
+      213: -4008276336145297149
+    second: SOUND_SWITCH-removebg-preview_4
+  - first:
+      213: -8201155949797472842
+    second: SOUND_SWITCH-removebg-preview_5
+  - first:
+      213: 2596053363990068720
+    second: SOUND_SWITCH-removebg-preview_6
+  - first:
+      213: 6486095435088789646
+    second: SOUND_SWITCH-removebg-preview_7
+  - first:
+      213: -4855857345365862177
+    second: SOUND_SWITCH-removebg-preview_8
+  - first:
+      213: 2570507920104706201
+    second: SOUND_SWITCH-removebg-preview_9
+  - first:
+      213: 2423700335414793237
+    second: SOUND_SWITCH-removebg-preview_10
+  - first:
+      213: 3126309948901239270
+    second: SOUND_SWITCH-removebg-preview_11
+  - first:
+      213: 2220422225584701366
+    second: SOUND_SWITCH-removebg-preview_12
+  - first:
+      213: 727502951502401047
+    second: SOUND_SWITCH-removebg-preview_13
+  - first:
+      213: 160852914734937234
+    second: SOUND_SWITCH-removebg-preview_14
+  - first:
+      213: -7006835734174525852
+    second: SOUND_SWITCH-removebg-preview_15
+  - first:
+      213: -2837186396145956987
+    second: SOUND_SWITCH-removebg-preview_16
+  - first:
+      213: -2285562018421548512
+    second: SOUND_SWITCH-removebg-preview_17
+  - first:
+      213: 9011447501541987357
+    second: SOUND_SWITCH-removebg-preview_18
+  - first:
+      213: 586320832978847121
+    second: SOUND_SWITCH-removebg-preview_19
+  - first:
+      213: 636441260240874467
+    second: SOUND_SWITCH-removebg-preview_20
+  - first:
+      213: 6310323638246200302
+    second: SOUND_SWITCH-removebg-preview_21
+  - first:
+      213: 1648133170511020585
+    second: SOUND_SWITCH-removebg-preview_22
+  - first:
+      213: -7608216216788715400
+    second: SOUND_SWITCH-removebg-preview_23
+  - first:
+      213: 4889453221097701669
+    second: SOUND_SWITCH-removebg-preview_24
+  - first:
+      213: 5423550820927080864
+    second: SOUND_SWITCH-removebg-preview_25
+  - first:
+      213: -3090391949471911579
+    second: SOUND_SWITCH-removebg-preview_26
+  - first:
+      213: 2854741261602303783
+    second: SOUND_SWITCH-removebg-preview_27
+  - first:
+      213: 1357994484821682169
+    second: SOUND_SWITCH-removebg-preview_28
+  - first:
+      213: -4574741086644212499
+    second: SOUND_SWITCH-removebg-preview_29
+  - first:
+      213: 3124340527831560577
+    second: SOUND_SWITCH-removebg-preview_30
+  - first:
+      213: 7644798459711256584
+    second: SOUND_SWITCH-removebg-preview_31
+  - first:
+      213: -1927681157171037786
+    second: SOUND_SWITCH-removebg-preview_32
+  - first:
+      213: 2731339339234752442
+    second: SOUND_SWITCH-removebg-preview_33
+  - first:
+      213: -4427494543038533456
+    second: SOUND_SWITCH-removebg-preview_34
+  - first:
+      213: -5862768858032549923
+    second: SOUND_SWITCH-removebg-preview_35
+  - first:
+      213: -2386088963475160141
+    second: SOUND_SWITCH-removebg-preview_36
+  - first:
+      213: 4794307594963427832
+    second: SOUND_SWITCH-removebg-preview_37
+  - first:
+      213: 7303437945048786872
+    second: SOUND_SWITCH-removebg-preview_38
+  - first:
+      213: -584469293243200829
+    second: SOUND_SWITCH-removebg-preview_39
+  - first:
+      213: 1090547059718332712
+    second: SOUND_SWITCH-removebg-preview_40
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SOUND_SWITCH-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9015a1b6f704340800000000000000
+      internalID: 4846013297030400482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOUND_SWITCH-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 422
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfbe1d8faf2fca50800000000000000
+      internalID: 6543501214626004943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SOUND_SWITCH-removebg-preview_0: 4846013297030400482
+      SOUND_SWITCH-removebg-preview_1: 6543501214626004943
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

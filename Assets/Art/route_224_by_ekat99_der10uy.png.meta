@@ -1,0 +1,6911 @@
+fileFormatVersion: 2
+guid: 0739d84b0e0f0e44db1501475b7f5beb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6229008293399870015
+    second: route_224_by_ekat99_der10uy_0
+  - first:
+      213: 8638391556563890026
+    second: route_224_by_ekat99_der10uy_1
+  - first:
+      213: -2707670295675109660
+    second: route_224_by_ekat99_der10uy_2
+  - first:
+      213: 7334426615524197483
+    second: route_224_by_ekat99_der10uy_3
+  - first:
+      213: -5276258691222589336
+    second: route_224_by_ekat99_der10uy_4
+  - first:
+      213: -6376366885691187233
+    second: route_224_by_ekat99_der10uy_5
+  - first:
+      213: 4337544372200046741
+    second: route_224_by_ekat99_der10uy_6
+  - first:
+      213: -1478908760599703924
+    second: route_224_by_ekat99_der10uy_7
+  - first:
+      213: 6830999516880778506
+    second: route_224_by_ekat99_der10uy_8
+  - first:
+      213: -8304687188953126867
+    second: route_224_by_ekat99_der10uy_9
+  - first:
+      213: 8225423385772673191
+    second: route_224_by_ekat99_der10uy_10
+  - first:
+      213: 7928917384797928548
+    second: route_224_by_ekat99_der10uy_11
+  - first:
+      213: -5918009454214379129
+    second: route_224_by_ekat99_der10uy_12
+  - first:
+      213: -5329152067038514632
+    second: route_224_by_ekat99_der10uy_13
+  - first:
+      213: -8347721543799952875
+    second: route_224_by_ekat99_der10uy_14
+  - first:
+      213: -6972395525509632213
+    second: route_224_by_ekat99_der10uy_15
+  - first:
+      213: -2793970151267942945
+    second: route_224_by_ekat99_der10uy_16
+  - first:
+      213: -8428221849502366982
+    second: route_224_by_ekat99_der10uy_17
+  - first:
+      213: 3196247917619282253
+    second: route_224_by_ekat99_der10uy_18
+  - first:
+      213: -7432038617639866646
+    second: route_224_by_ekat99_der10uy_19
+  - first:
+      213: -3702735473918023210
+    second: route_224_by_ekat99_der10uy_20
+  - first:
+      213: 5562264437510116558
+    second: route_224_by_ekat99_der10uy_21
+  - first:
+      213: 693233752159765578
+    second: route_224_by_ekat99_der10uy_22
+  - first:
+      213: 2089841960545430786
+    second: route_224_by_ekat99_der10uy_23
+  - first:
+      213: -4097524720707474957
+    second: route_224_by_ekat99_der10uy_24
+  - first:
+      213: -4784745337544694850
+    second: route_224_by_ekat99_der10uy_25
+  - first:
+      213: -1036681206496405537
+    second: route_224_by_ekat99_der10uy_26
+  - first:
+      213: -6016839290231404417
+    second: route_224_by_ekat99_der10uy_27
+  - first:
+      213: 65860830100196381
+    second: route_224_by_ekat99_der10uy_28
+  - first:
+      213: -3095375305075898611
+    second: route_224_by_ekat99_der10uy_29
+  - first:
+      213: 7327073244531155619
+    second: route_224_by_ekat99_der10uy_30
+  - first:
+      213: 8222189913099395796
+    second: route_224_by_ekat99_der10uy_31
+  - first:
+      213: -8733705381138044252
+    second: route_224_by_ekat99_der10uy_32
+  - first:
+      213: -6767061208841375517
+    second: route_224_by_ekat99_der10uy_33
+  - first:
+      213: -8854601346898441329
+    second: route_224_by_ekat99_der10uy_34
+  - first:
+      213: -8257198591891018581
+    second: route_224_by_ekat99_der10uy_35
+  - first:
+      213: -859738894803001990
+    second: route_224_by_ekat99_der10uy_36
+  - first:
+      213: 7707099429771267135
+    second: route_224_by_ekat99_der10uy_37
+  - first:
+      213: 8791335979608272844
+    second: route_224_by_ekat99_der10uy_38
+  - first:
+      213: 7565541309924442107
+    second: route_224_by_ekat99_der10uy_39
+  - first:
+      213: -8020673261028898206
+    second: route_224_by_ekat99_der10uy_40
+  - first:
+      213: 979349002819867485
+    second: route_224_by_ekat99_der10uy_41
+  - first:
+      213: -4742393987826631524
+    second: route_224_by_ekat99_der10uy_42
+  - first:
+      213: -5658396587739816079
+    second: route_224_by_ekat99_der10uy_43
+  - first:
+      213: 8291244287897115361
+    second: route_224_by_ekat99_der10uy_44
+  - first:
+      213: -1575730739771811136
+    second: route_224_by_ekat99_der10uy_45
+  - first:
+      213: 7842672359478651138
+    second: route_224_by_ekat99_der10uy_46
+  - first:
+      213: -4336557572176750559
+    second: route_224_by_ekat99_der10uy_47
+  - first:
+      213: 6366402667038234424
+    second: route_224_by_ekat99_der10uy_48
+  - first:
+      213: -5808610518459462941
+    second: route_224_by_ekat99_der10uy_49
+  - first:
+      213: -3388655426835936882
+    second: route_224_by_ekat99_der10uy_50
+  - first:
+      213: 6046138059413288089
+    second: route_224_by_ekat99_der10uy_51
+  - first:
+      213: 8633242781638868764
+    second: route_224_by_ekat99_der10uy_52
+  - first:
+      213: 7814878447847923032
+    second: route_224_by_ekat99_der10uy_53
+  - first:
+      213: 1694297837498073662
+    second: route_224_by_ekat99_der10uy_54
+  - first:
+      213: -1078359822309531042
+    second: route_224_by_ekat99_der10uy_55
+  - first:
+      213: 7400389726422749381
+    second: route_224_by_ekat99_der10uy_56
+  - first:
+      213: -7359187331327636856
+    second: route_224_by_ekat99_der10uy_57
+  - first:
+      213: 4334010627757308409
+    second: route_224_by_ekat99_der10uy_58
+  - first:
+      213: -8219016416890487338
+    second: route_224_by_ekat99_der10uy_59
+  - first:
+      213: -7065491755461559071
+    second: route_224_by_ekat99_der10uy_60
+  - first:
+      213: -3894975534127262460
+    second: route_224_by_ekat99_der10uy_61
+  - first:
+      213: -3537744978238592051
+    second: route_224_by_ekat99_der10uy_62
+  - first:
+      213: 1037575913626271716
+    second: route_224_by_ekat99_der10uy_63
+  - first:
+      213: -7117163182852754449
+    second: route_224_by_ekat99_der10uy_64
+  - first:
+      213: 8136044569533697351
+    second: route_224_by_ekat99_der10uy_65
+  - first:
+      213: 7027762238163795840
+    second: route_224_by_ekat99_der10uy_66
+  - first:
+      213: -1194730749617560203
+    second: route_224_by_ekat99_der10uy_67
+  - first:
+      213: 408607841382653384
+    second: route_224_by_ekat99_der10uy_68
+  - first:
+      213: 281562274101863927
+    second: route_224_by_ekat99_der10uy_69
+  - first:
+      213: 1878931974623967526
+    second: route_224_by_ekat99_der10uy_70
+  - first:
+      213: -688294593802879361
+    second: route_224_by_ekat99_der10uy_71
+  - first:
+      213: -2538403854222594566
+    second: route_224_by_ekat99_der10uy_72
+  - first:
+      213: 5550107045874290524
+    second: route_224_by_ekat99_der10uy_73
+  - first:
+      213: 4094149429880485511
+    second: route_224_by_ekat99_der10uy_74
+  - first:
+      213: -8616109119275859260
+    second: route_224_by_ekat99_der10uy_75
+  - first:
+      213: -1505277220009687517
+    second: route_224_by_ekat99_der10uy_76
+  - first:
+      213: -7147418479504806971
+    second: route_224_by_ekat99_der10uy_77
+  - first:
+      213: -8539422996655506406
+    second: route_224_by_ekat99_der10uy_78
+  - first:
+      213: 1408293240631837933
+    second: route_224_by_ekat99_der10uy_79
+  - first:
+      213: -24062873030566651
+    second: route_224_by_ekat99_der10uy_80
+  - first:
+      213: 2242206794757450057
+    second: route_224_by_ekat99_der10uy_81
+  - first:
+      213: -782321614400386390
+    second: route_224_by_ekat99_der10uy_82
+  - first:
+      213: -5053805590973601705
+    second: route_224_by_ekat99_der10uy_83
+  - first:
+      213: 368227276972331508
+    second: route_224_by_ekat99_der10uy_84
+  - first:
+      213: -3349010338127653441
+    second: route_224_by_ekat99_der10uy_85
+  - first:
+      213: 5464817954659065794
+    second: route_224_by_ekat99_der10uy_86
+  - first:
+      213: -2486178356648710042
+    second: route_224_by_ekat99_der10uy_87
+  - first:
+      213: -8769251598757409696
+    second: route_224_by_ekat99_der10uy_88
+  - first:
+      213: 6811875980230801208
+    second: route_224_by_ekat99_der10uy_89
+  - first:
+      213: -2121663632290153869
+    second: route_224_by_ekat99_der10uy_90
+  - first:
+      213: -5881929925622741759
+    second: route_224_by_ekat99_der10uy_91
+  - first:
+      213: -4110754289661044631
+    second: route_224_by_ekat99_der10uy_92
+  - first:
+      213: -1742741195459591400
+    second: route_224_by_ekat99_der10uy_93
+  - first:
+      213: -1206129473658016902
+    second: route_224_by_ekat99_der10uy_94
+  - first:
+      213: -3422315658533426661
+    second: route_224_by_ekat99_der10uy_95
+  - first:
+      213: 8408343633429613974
+    second: route_224_by_ekat99_der10uy_96
+  - first:
+      213: 6917373217699986434
+    second: route_224_by_ekat99_der10uy_97
+  - first:
+      213: -6996714607041011109
+    second: route_224_by_ekat99_der10uy_98
+  - first:
+      213: 7823053799542498668
+    second: route_224_by_ekat99_der10uy_99
+  - first:
+      213: -4280891130685802334
+    second: route_224_by_ekat99_der10uy_100
+  - first:
+      213: -842584337441050346
+    second: route_224_by_ekat99_der10uy_101
+  - first:
+      213: 1468590539808012554
+    second: route_224_by_ekat99_der10uy_102
+  - first:
+      213: -4189452882401023046
+    second: route_224_by_ekat99_der10uy_103
+  - first:
+      213: 5188831725661355561
+    second: route_224_by_ekat99_der10uy_104
+  - first:
+      213: 1822446877666927260
+    second: route_224_by_ekat99_der10uy_105
+  - first:
+      213: 249367318438808735
+    second: route_224_by_ekat99_der10uy_106
+  - first:
+      213: -2742558369796734978
+    second: route_224_by_ekat99_der10uy_107
+  - first:
+      213: 6785723096023656358
+    second: route_224_by_ekat99_der10uy_108
+  - first:
+      213: -582307702082470378
+    second: route_224_by_ekat99_der10uy_109
+  - first:
+      213: -4671184499446285690
+    second: route_224_by_ekat99_der10uy_110
+  - first:
+      213: -1493991003069151498
+    second: route_224_by_ekat99_der10uy_111
+  - first:
+      213: 1919081202235242387
+    second: route_224_by_ekat99_der10uy_112
+  - first:
+      213: 8947202182016365289
+    second: route_224_by_ekat99_der10uy_113
+  - first:
+      213: 8395727779441702911
+    second: route_224_by_ekat99_der10uy_114
+  - first:
+      213: 7178771093931206622
+    second: route_224_by_ekat99_der10uy_115
+  - first:
+      213: -6800385237423586586
+    second: route_224_by_ekat99_der10uy_116
+  - first:
+      213: 8923173041732661910
+    second: route_224_by_ekat99_der10uy_117
+  - first:
+      213: -5500643622042479120
+    second: route_224_by_ekat99_der10uy_118
+  - first:
+      213: 8569735105135082745
+    second: route_224_by_ekat99_der10uy_119
+  - first:
+      213: -831229642964478535
+    second: route_224_by_ekat99_der10uy_120
+  - first:
+      213: 6675148941473449958
+    second: route_224_by_ekat99_der10uy_121
+  - first:
+      213: -3246941586537026749
+    second: route_224_by_ekat99_der10uy_122
+  - first:
+      213: 884248605525297860
+    second: route_224_by_ekat99_der10uy_123
+  - first:
+      213: 5922488832819473002
+    second: route_224_by_ekat99_der10uy_124
+  - first:
+      213: 4289506311584727942
+    second: route_224_by_ekat99_der10uy_125
+  - first:
+      213: -104028746041944439
+    second: route_224_by_ekat99_der10uy_126
+  - first:
+      213: 2600708868429850090
+    second: route_224_by_ekat99_der10uy_127
+  - first:
+      213: 2467630044107218573
+    second: route_224_by_ekat99_der10uy_128
+  - first:
+      213: 4442771679286627327
+    second: route_224_by_ekat99_der10uy_129
+  - first:
+      213: -5953629766147688746
+    second: route_224_by_ekat99_der10uy_130
+  - first:
+      213: -5056623802845441628
+    second: route_224_by_ekat99_der10uy_131
+  - first:
+      213: 1261979625325745498
+    second: route_224_by_ekat99_der10uy_132
+  - first:
+      213: 1552701177763362186
+    second: route_224_by_ekat99_der10uy_133
+  - first:
+      213: -7299538538895281982
+    second: route_224_by_ekat99_der10uy_134
+  - first:
+      213: -6515691862663238112
+    second: route_224_by_ekat99_der10uy_135
+  - first:
+      213: 3988669530979796548
+    second: route_224_by_ekat99_der10uy_136
+  - first:
+      213: -8683693061194378927
+    second: route_224_by_ekat99_der10uy_137
+  - first:
+      213: -3327656847079152012
+    second: route_224_by_ekat99_der10uy_138
+  - first:
+      213: 2945849218834844434
+    second: route_224_by_ekat99_der10uy_139
+  - first:
+      213: -2457570438962470187
+    second: route_224_by_ekat99_der10uy_140
+  - first:
+      213: 4548025578225815362
+    second: route_224_by_ekat99_der10uy_141
+  - first:
+      213: 2866938739183251957
+    second: route_224_by_ekat99_der10uy_142
+  - first:
+      213: -3382728462517531885
+    second: route_224_by_ekat99_der10uy_143
+  - first:
+      213: 1023791257004108831
+    second: route_224_by_ekat99_der10uy_144
+  - first:
+      213: 1817273442978446381
+    second: route_224_by_ekat99_der10uy_145
+  - first:
+      213: 217786055750955594
+    second: route_224_by_ekat99_der10uy_146
+  - first:
+      213: -4322161368606072765
+    second: route_224_by_ekat99_der10uy_147
+  - first:
+      213: 5146433477458288529
+    second: route_224_by_ekat99_der10uy_148
+  - first:
+      213: 5275002078868957396
+    second: route_224_by_ekat99_der10uy_149
+  - first:
+      213: 4720662861354542493
+    second: route_224_by_ekat99_der10uy_150
+  - first:
+      213: -5475727971272282673
+    second: route_224_by_ekat99_der10uy_151
+  - first:
+      213: 7538932896039836556
+    second: route_224_by_ekat99_der10uy_152
+  - first:
+      213: 2655600671408543996
+    second: route_224_by_ekat99_der10uy_153
+  - first:
+      213: -8257857544276830520
+    second: route_224_by_ekat99_der10uy_154
+  - first:
+      213: 1091639494370448454
+    second: route_224_by_ekat99_der10uy_155
+  - first:
+      213: 4144263308050918795
+    second: route_224_by_ekat99_der10uy_156
+  - first:
+      213: -3289987328718320495
+    second: route_224_by_ekat99_der10uy_157
+  - first:
+      213: 5238369670376776749
+    second: route_224_by_ekat99_der10uy_158
+  - first:
+      213: 858523805539339716
+    second: route_224_by_ekat99_der10uy_159
+  - first:
+      213: -2605725879040790359
+    second: route_224_by_ekat99_der10uy_160
+  - first:
+      213: 7737928282820155723
+    second: route_224_by_ekat99_der10uy_161
+  - first:
+      213: -8735894131831140535
+    second: route_224_by_ekat99_der10uy_162
+  - first:
+      213: 6638676319629300673
+    second: route_224_by_ekat99_der10uy_163
+  - first:
+      213: 2826884694718112635
+    second: route_224_by_ekat99_der10uy_164
+  - first:
+      213: -8367795600216631740
+    second: route_224_by_ekat99_der10uy_165
+  - first:
+      213: 6024609185700043311
+    second: route_224_by_ekat99_der10uy_166
+  - first:
+      213: 8873574374429757340
+    second: route_224_by_ekat99_der10uy_167
+  - first:
+      213: 4514549814804457006
+    second: route_224_by_ekat99_der10uy_168
+  - first:
+      213: -8756037297054565355
+    second: route_224_by_ekat99_der10uy_169
+  - first:
+      213: 2634628856463382955
+    second: route_224_by_ekat99_der10uy_170
+  - first:
+      213: 6897374534755637887
+    second: route_224_by_ekat99_der10uy_171
+  - first:
+      213: 8183356567334291530
+    second: route_224_by_ekat99_der10uy_172
+  - first:
+      213: 2888971619051740865
+    second: route_224_by_ekat99_der10uy_173
+  - first:
+      213: 5273653575931421824
+    second: route_224_by_ekat99_der10uy_174
+  - first:
+      213: 8424594644537913379
+    second: route_224_by_ekat99_der10uy_175
+  - first:
+      213: -4228301007538085639
+    second: route_224_by_ekat99_der10uy_176
+  - first:
+      213: 767421973016091291
+    second: route_224_by_ekat99_der10uy_177
+  - first:
+      213: -9035915469509101304
+    second: route_224_by_ekat99_der10uy_178
+  - first:
+      213: -6041880014806148986
+    second: route_224_by_ekat99_der10uy_179
+  - first:
+      213: -3410192970028965949
+    second: route_224_by_ekat99_der10uy_180
+  - first:
+      213: -4625509845479545686
+    second: route_224_by_ekat99_der10uy_181
+  - first:
+      213: 204228161832329924
+    second: route_224_by_ekat99_der10uy_182
+  - first:
+      213: 358549479825280368
+    second: route_224_by_ekat99_der10uy_183
+  - first:
+      213: -1996001440022952609
+    second: route_224_by_ekat99_der10uy_184
+  - first:
+      213: -5765772403918579138
+    second: route_224_by_ekat99_der10uy_185
+  - first:
+      213: 8676359159627790339
+    second: route_224_by_ekat99_der10uy_186
+  - first:
+      213: 2341079769664405066
+    second: route_224_by_ekat99_der10uy_187
+  - first:
+      213: -277658157891154854
+    second: route_224_by_ekat99_der10uy_188
+  - first:
+      213: 7904981916466589614
+    second: route_224_by_ekat99_der10uy_189
+  - first:
+      213: -3941869994475326701
+    second: route_224_by_ekat99_der10uy_190
+  - first:
+      213: 285270221806389649
+    second: route_224_by_ekat99_der10uy_191
+  - first:
+      213: 5497616691500174231
+    second: route_224_by_ekat99_der10uy_192
+  - first:
+      213: -5821595036969613525
+    second: route_224_by_ekat99_der10uy_193
+  - first:
+      213: -8736230896398626460
+    second: route_224_by_ekat99_der10uy_194
+  - first:
+      213: -4717309265956066941
+    second: route_224_by_ekat99_der10uy_195
+  - first:
+      213: -5307029807038804215
+    second: route_224_by_ekat99_der10uy_196
+  - first:
+      213: -1675806016334075439
+    second: route_224_by_ekat99_der10uy_197
+  - first:
+      213: -473910389490748933
+    second: route_224_by_ekat99_der10uy_198
+  - first:
+      213: -7623566081841094811
+    second: route_224_by_ekat99_der10uy_199
+  - first:
+      213: 5505136219287824823
+    second: route_224_by_ekat99_der10uy_200
+  - first:
+      213: -8875972479924934022
+    second: route_224_by_ekat99_der10uy_201
+  - first:
+      213: 569112211941517905
+    second: route_224_by_ekat99_der10uy_202
+  - first:
+      213: -8719929237094528842
+    second: route_224_by_ekat99_der10uy_203
+  - first:
+      213: -4943642257866157182
+    second: route_224_by_ekat99_der10uy_204
+  - first:
+      213: 215155118031519628
+    second: route_224_by_ekat99_der10uy_205
+  - first:
+      213: 7309474709581320792
+    second: route_224_by_ekat99_der10uy_206
+  - first:
+      213: -5213088074696179624
+    second: route_224_by_ekat99_der10uy_207
+  - first:
+      213: -1270302992457674215
+    second: route_224_by_ekat99_der10uy_208
+  - first:
+      213: -3196756548263859674
+    second: route_224_by_ekat99_der10uy_209
+  - first:
+      213: 4704614463571377938
+    second: route_224_by_ekat99_der10uy_210
+  - first:
+      213: 2496669212167685357
+    second: route_224_by_ekat99_der10uy_211
+  - first:
+      213: -3916816137705861734
+    second: route_224_by_ekat99_der10uy_212
+  - first:
+      213: 8610080951597864351
+    second: route_224_by_ekat99_der10uy_213
+  - first:
+      213: -7286493206062754456
+    second: route_224_by_ekat99_der10uy_214
+  - first:
+      213: 9160727978827479565
+    second: route_224_by_ekat99_der10uy_215
+  - first:
+      213: -5791516926897726477
+    second: route_224_by_ekat99_der10uy_216
+  - first:
+      213: -8439442018642323095
+    second: route_224_by_ekat99_der10uy_217
+  - first:
+      213: -1996542467080639689
+    second: route_224_by_ekat99_der10uy_218
+  - first:
+      213: 9104215440913035028
+    second: route_224_by_ekat99_der10uy_219
+  - first:
+      213: 7192668980569925032
+    second: route_224_by_ekat99_der10uy_220
+  - first:
+      213: 9127734050792541143
+    second: route_224_by_ekat99_der10uy_221
+  - first:
+      213: -6222657900960030731
+    second: route_224_by_ekat99_der10uy_222
+  - first:
+      213: 1974533055683024420
+    second: route_224_by_ekat99_der10uy_223
+  - first:
+      213: 2443204066871545885
+    second: route_224_by_ekat99_der10uy_224
+  - first:
+      213: -7954377451243960825
+    second: route_224_by_ekat99_der10uy_225
+  - first:
+      213: 8810784863419425581
+    second: route_224_by_ekat99_der10uy_226
+  - first:
+      213: -5644605963272650704
+    second: route_224_by_ekat99_der10uy_227
+  - first:
+      213: 3721773511308248904
+    second: route_224_by_ekat99_der10uy_228
+  - first:
+      213: -6818671582783441729
+    second: route_224_by_ekat99_der10uy_229
+  - first:
+      213: -7479653050432047767
+    second: route_224_by_ekat99_der10uy_230
+  - first:
+      213: 6298933254153409555
+    second: route_224_by_ekat99_der10uy_231
+  - first:
+      213: 6533006228317849689
+    second: route_224_by_ekat99_der10uy_232
+  - first:
+      213: -4252213180517536451
+    second: route_224_by_ekat99_der10uy_233
+  - first:
+      213: 1650849111976569930
+    second: route_224_by_ekat99_der10uy_234
+  - first:
+      213: -7028932781780775353
+    second: route_224_by_ekat99_der10uy_235
+  - first:
+      213: -591993162489994169
+    second: route_224_by_ekat99_der10uy_236
+  - first:
+      213: 4214922362275052771
+    second: route_224_by_ekat99_der10uy_237
+  - first:
+      213: 2675256157504105705
+    second: route_224_by_ekat99_der10uy_238
+  - first:
+      213: 6677782384285777148
+    second: route_224_by_ekat99_der10uy_239
+  - first:
+      213: -2093323364232754421
+    second: route_224_by_ekat99_der10uy_240
+  - first:
+      213: -2128884340209136551
+    second: route_224_by_ekat99_der10uy_241
+  - first:
+      213: 2965294163945850043
+    second: route_224_by_ekat99_der10uy_242
+  - first:
+      213: 8651720003689430073
+    second: route_224_by_ekat99_der10uy_243
+  - first:
+      213: -2962892279792210215
+    second: route_224_by_ekat99_der10uy_244
+  - first:
+      213: 1509047292692834698
+    second: route_224_by_ekat99_der10uy_245
+  - first:
+      213: -790343277029687022
+    second: route_224_by_ekat99_der10uy_246
+  - first:
+      213: -2709731620488116886
+    second: route_224_by_ekat99_der10uy_247
+  - first:
+      213: 3886082885123674846
+    second: route_224_by_ekat99_der10uy_248
+  - first:
+      213: 5028800362808345515
+    second: route_224_by_ekat99_der10uy_249
+  - first:
+      213: -8538157785613059067
+    second: route_224_by_ekat99_der10uy_250
+  - first:
+      213: -8416773325011208683
+    second: route_224_by_ekat99_der10uy_251
+  - first:
+      213: -1296345300579405051
+    second: route_224_by_ekat99_der10uy_252
+  - first:
+      213: 2413106067842015740
+    second: route_224_by_ekat99_der10uy_253
+  - first:
+      213: 1505302273896162932
+    second: route_224_by_ekat99_der10uy_254
+  - first:
+      213: -4677878204250791972
+    second: route_224_by_ekat99_der10uy_255
+  - first:
+      213: -3661228991260749184
+    second: route_224_by_ekat99_der10uy_256
+  - first:
+      213: -8385569183196801140
+    second: route_224_by_ekat99_der10uy_257
+  - first:
+      213: -5684290216608463233
+    second: route_224_by_ekat99_der10uy_258
+  - first:
+      213: -1551672603807673028
+    second: route_224_by_ekat99_der10uy_259
+  - first:
+      213: -1160141235961509183
+    second: route_224_by_ekat99_der10uy_260
+  - first:
+      213: 1979506889684776279
+    second: route_224_by_ekat99_der10uy_261
+  - first:
+      213: 1452398639448856406
+    second: route_224_by_ekat99_der10uy_262
+  - first:
+      213: 4121019349532127526
+    second: route_224_by_ekat99_der10uy_263
+  - first:
+      213: -606264285609106803
+    second: route_224_by_ekat99_der10uy_264
+  - first:
+      213: 4525256629758193009
+    second: route_224_by_ekat99_der10uy_265
+  - first:
+      213: -728414546859735561
+    second: route_224_by_ekat99_der10uy_266
+  - first:
+      213: -2245343269694388504
+    second: route_224_by_ekat99_der10uy_267
+  - first:
+      213: -3488440921095103312
+    second: route_224_by_ekat99_der10uy_268
+  - first:
+      213: 4539284435647237274
+    second: route_224_by_ekat99_der10uy_269
+  - first:
+      213: -743279364423389845
+    second: route_224_by_ekat99_der10uy_270
+  - first:
+      213: 8077545953340316605
+    second: route_224_by_ekat99_der10uy_271
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c540f8b5fd1e89a0800000000000000
+      internalID: -6229008293399870015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f69bf3a5bb1e770800000000000000
+      internalID: 8638391556563890026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7861463c6c6ad0800000000000000
+      internalID: -2707670295675109660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648d79b52e19c560800000000000000
+      internalID: 7334426615524197483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8603c96dca6f6c6b0800000000000000
+      internalID: -5276258691222589336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf10d4d9189287a0800000000000000
+      internalID: -6376366885691187233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5908a7e00ad023c30800000000000000
+      internalID: 4337544372200046741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 528
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ecd3d515cd97be0800000000000000
+      internalID: -1478908760599703924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a053b805ed59cce50800000000000000
+      internalID: 6830999516880778506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2826b37003dfbc80800000000000000
+      internalID: -8304687188953126867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8cb2c3df2962270800000000000000
+      internalID: 8225423385772673191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cbc4e2a5c290e60800000000000000
+      internalID: 7928917384797928548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890620a1c10fdda0800000000000000
+      internalID: -5918009454214379129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832712a1e6c0b06b0800000000000000
+      internalID: -5329152067038514632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aade9eb7fe62c80800000000000000
+      internalID: -8347721543799952875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 512
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fa97cf5331d3f90800000000000000
+      internalID: -6972395525509632213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd31a453f2d939d0800000000000000
+      internalID: -2793970151267942945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c93ce1e0f80b80800000000000000
+      internalID: -8428221849502366982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4187cfeb8a5b5c20800000000000000
+      internalID: 3196247917619282253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee279ef0481cd890800000000000000
+      internalID: -7432038617639866646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e0e354bd3d9cc0800000000000000
+      internalID: -3702735473918023210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec414982902213d40800000000000000
+      internalID: 5562264437510116558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444bc7bc6cde9900800000000000000
+      internalID: 693233752159765578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d240fc03c900d10800000000000000
+      internalID: 2089841960545430786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f969d3e9faa227c0800000000000000
+      internalID: -4097524720707474957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb321f6577b299db0800000000000000
+      internalID: -4784745337544694850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7557d6fe7fc91f0800000000000000
+      internalID: -1036681206496405537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c42b4b84ef7ca0800000000000000
+      internalID: -6016839290231404417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c0cb6731cf9e000800000000000000
+      internalID: 65860830100196381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d074f6e5f840b05d0800000000000000
+      internalID: -3095375305075898611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26c8f9b4efea560800000000000000
+      internalID: 7327073244531155619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2e616b9261b1270800000000000000
+      internalID: 8222189913099395796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa6950aa35abc680800000000000000
+      internalID: -8733705381138044252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e03fa91fa19612a0800000000000000
+      internalID: -6767061208841375517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4c6a1df22e1580800000000000000
+      internalID: -8854601346898441329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacea7211a9886d80800000000000000
+      internalID: -8257198591891018581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d1eafb7089114f0800000000000000
+      internalID: -859738894803001990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc120f81e15fa60800000000000000
+      internalID: 7707099429771267135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf69a5be79110a70800000000000000
+      internalID: 8791335979608272844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff697ccb33ef860800000000000000
+      internalID: 7565541309924442107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a06e81a28d0b090800000000000000
+      internalID: -8020673261028898206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531630bab8579d00800000000000000
+      internalID: 979349002819867485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c35aa5bc1af2eb0800000000000000
+      internalID: -4742393987826631524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f5c7d68465971b0800000000000000
+      internalID: -5658396587739816079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea181e30ca601370800000000000000
+      internalID: 8291244287897115361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cadc32ad31e12ae0800000000000000
+      internalID: -1575730739771811136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ef7c65f4c6dc60800000000000000
+      internalID: 7842672359478651138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128df5a3dd371d3c0800000000000000
+      internalID: -4336557572176750559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837d9e9be710a5850800000000000000
+      internalID: 6366402667038234424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea40a0428ba36fa0800000000000000
+      internalID: -5808610518459462941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e898e39d7d319f0d0800000000000000
+      internalID: -3388655426835936882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9947c4ef78238e350800000000000000
+      internalID: 6046138059413288089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f3a4ba1907fc770800000000000000
+      internalID: 8633242781638868764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dd4d61b86047c60800000000000000
+      internalID: 7814878447847923032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3209cb08ea538710800000000000000
+      internalID: 1694297837498073662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ef2b7475e801f0800000000000000
+      internalID: -1078359822309531042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d0ea4f3773b660800000000000000
+      internalID: 7400389726422749381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a49a0ec1aeed990800000000000000
+      internalID: -7359187331327636856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9fd3014bf752c30800000000000000
+      internalID: 4334010627757308409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd73247d1030fd80800000000000000
+      internalID: -8219016416890487338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3348dea452fd90800000000000000
+      internalID: -7065491755461559071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d18f536442f9c0800000000000000
+      internalID: -3894975534127262460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbaa22afa767eec0800000000000000
+      internalID: -3537744978238592051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff13fcbc5366e00800000000000000
+      internalID: 1037575913626271716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b2952bc1ca3d90800000000000000
+      internalID: -7117163182852754449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4dcbed6909e070800000000000000
+      internalID: 8136044569533697351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f38ab5580a78160800000000000000
+      internalID: 7027762238163795840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5752fc296b67b6fe0800000000000000
+      internalID: -1194730749617560203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd5d06baaaaba500800000000000000
+      internalID: 408607841382653384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f52ef1856f48e300800000000000000
+      internalID: 281562274101863927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b5980dae431a10800000000000000
+      internalID: 1878931974623967526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ebe83b6bfa276f0800000000000000
+      internalID: -688294593802879361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6494c427c5ccd0800000000000000
+      internalID: -2538403854222594566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fcab6d3f0f50d40800000000000000
+      internalID: 5550107045874290524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f469f63751d830800000000000000
+      internalID: 4094149429880485511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20f87f76e6d6880800000000000000
+      internalID: -8616109119275859260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326c5dcf75e2c1be0800000000000000
+      internalID: -1505277220009687517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbad04f2c44fcc90800000000000000
+      internalID: -7147418479504806971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cfb814700ed7980800000000000000
+      internalID: -8539422996655506406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c17bad334b8310800000000000000
+      internalID: 1408293240631837933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddcb8c1f28aaff0800000000000000
+      internalID: -24062873030566651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9492c7a333bed1f10800000000000000
+      internalID: 2242206794757450057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa0e89f2a2a425f0800000000000000
+      internalID: -782321614400386390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a22a57964dd9b0800000000000000
+      internalID: -5053805590973601705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19b88e1c43c1500800000000000000
+      internalID: 368227276972331508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb55ace57dce581d0800000000000000
+      internalID: -3349010338127653441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf51a5d9fee6db40800000000000000
+      internalID: 5464817954659065794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66070bbf4f15f7dd0800000000000000
+      internalID: -2486178356648710042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cc906e12c5d4680800000000000000
+      internalID: -8769251598757409696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8373ca7fc15a88e50800000000000000
+      internalID: 6811875980230801208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37afa70ea265e82e0800000000000000
+      internalID: -2121663632290153869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105448d75ef2f5ea0800000000000000
+      internalID: -5881929925622741759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96817d5d0caa3f6c0800000000000000
+      internalID: -4110754289661044631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813013dbd1a80d7e0800000000000000
+      internalID: -1742741195459591400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2c7152a7f24fe0800000000000000
+      internalID: -1206129473658016902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aabdf6a0e7180d0800000000000000
+      internalID: -3422315658533426661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4dfb3cff60b470800000000000000
+      internalID: 8408343633429613974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfecbaa427fff50800000000000000
+      internalID: 6917373217699986434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52a884922da6ee90800000000000000
+      internalID: -6996714607041011109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65208c7bf1119c60800000000000000
+      internalID: 7823053799542498668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83a51a2383794c0800000000000000
+      internalID: -4280891130685802334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b481620a8e44f0800000000000000
+      internalID: -842584337441050346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0971c5a05b716410800000000000000
+      internalID: 1468590539808012554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2045dcc21cd5c0800000000000000
+      internalID: -4189452882401023046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e725f76fe620840800000000000000
+      internalID: 5188831725661355561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926b5d87c1aa4910800000000000000
+      internalID: 1822446877666927260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0322414ee57300800000000000000
+      internalID: 249367318438808735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effbd7081b970f9d0800000000000000
+      internalID: -2742558369796734978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a767aa143bbb2e50800000000000000
+      internalID: 6785723096023656358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e766bea3a3be7f0800000000000000
+      internalID: -582307702082470378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a713e527e9c2fb0800000000000000
+      internalID: -4671184499446285690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f60f642917444be0800000000000000
+      internalID: -1493991003069151498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3977c5a8f22f1aa10800000000000000
+      internalID: 1919081202235242387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27fa0faf8da2c70800000000000000
+      internalID: 8947202182016365289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff77084deed938470800000000000000
+      internalID: 8395727779441702911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ac91764e10a360800000000000000
+      internalID: 7178771093931206622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e28e8318ad20a1a0800000000000000
+      internalID: -6800385237423586586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69231ddba9a75db70800000000000000
+      internalID: 8923173041732661910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5d328f4c9c9a3b0800000000000000
+      internalID: -5500643622042479120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc75c87ca0dde670800000000000000
+      internalID: 8569735105135082745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5d3543b01e674f0800000000000000
+      internalID: -831229642964478535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e789578894e2ac50800000000000000
+      internalID: 6675148941473449958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b640084db80f2d0800000000000000
+      internalID: -3246941586537026749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca4879fb6b754c00800000000000000
+      internalID: 884248605525297860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2c6af638e03250800000000000000
+      internalID: 5922488832819473002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683cdcb7343678b30800000000000000
+      internalID: 4289506311584727942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9869db9186a6e8ef0800000000000000
+      internalID: -104028746041944439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae528facfe2971420800000000000000
+      internalID: 2600708868429850090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e97187378ce3220800000000000000
+      internalID: 2467630044107218573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8b02bd45e7ad30800000000000000
+      internalID: 4442771679286627327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d633987545706da0800000000000000
+      internalID: -5953629766147688746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1dc94417343d9b0800000000000000
+      internalID: -5056623802845441628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55525178c3738110800000000000000
+      internalID: 1261979625325745498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a857aee9e7d4c8510800000000000000
+      internalID: 1552701177763362186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07fdc9f54d2ba90800000000000000
+      internalID: -7299538538895281982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eed04c5cc9395a0800000000000000
+      internalID: -6515691862663238112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44689783ec99a5730800000000000000
+      internalID: 3988669530979796548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1511cf44b235d7780800000000000000
+      internalID: -8683693061194378927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476637f6ab9c1d1d0800000000000000
+      internalID: -3327656847079152012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b438ab142c1e820800000000000000
+      internalID: 2945849218834844434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2242fd4b4f4edd0800000000000000
+      internalID: -2457570438962470187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f4a8bba25dd1f30800000000000000
+      internalID: 4548025578225815362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f2d5f79969c720800000000000000
+      internalID: 2866938739183251957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0a04c2622e01d0800000000000000
+      internalID: -3382728462517531885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c61e559bc353e00800000000000000
+      internalID: 1023791257004108831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c3b7c6190483910800000000000000
+      internalID: 1817273442978446381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b11a834bb50300800000000000000
+      internalID: 217786055750955594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340a15292299404c0800000000000000
+      internalID: -4322161368606072765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f54141bfdcb6740800000000000000
+      internalID: 5146433477458288529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86e6c4172943940800000000000000
+      internalID: 5275002078868957396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95aa6b7cd9238140800000000000000
+      internalID: 4720662861354542493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd25a9fb6e4204b0800000000000000
+      internalID: -5475727971272282673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b16f5a68baf9860800000000000000
+      internalID: 7538932896039836556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8589c9db69ad420800000000000000
+      internalID: 2655600671408543996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c69993c052366d80800000000000000
+      internalID: -8257857544276830520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644dcbc1658462f00800000000000000
+      internalID: 1091639494370448454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d6f0c7581638930800000000000000
+      internalID: 4144263308050918795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c4534a4fd9752d0800000000000000
+      internalID: -3289987328718320495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ecfc067d62b840800000000000000
+      internalID: 5238369670376776749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd836c3ad61aeb00800000000000000
+      internalID: 858523805539339716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03bb56e1a96dbd0800000000000000
+      internalID: -2605725879040790359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4991f2a6c4a26b60800000000000000
+      internalID: 7737928282820155723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f09c4629ed3c680800000000000000
+      internalID: -8735894131831140535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c35d4280f0512c50800000000000000
+      internalID: 6638676319629300673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7369a107ac1b3720800000000000000
+      internalID: 2826884694718112635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446d2007c3e9fdb80800000000000000
+      internalID: -8367795600216631740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ad4387226bb9350800000000000000
+      internalID: 6024609185700043311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f05eb11e4452b70800000000000000
+      internalID: 8873574374429757340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26a9303327e6ae30800000000000000
+      internalID: 4514549814804457006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cbdf4487e4c7680800000000000000
+      internalID: -8756037297054565355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba95e707cf4109420800000000000000
+      internalID: 2634628856463382955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a5fe2789568bf50800000000000000
+      internalID: 6897374534755637887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a480252d07f119170800000000000000
+      internalID: 8183356567334291530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce93cf8160b71820800000000000000
+      internalID: 2888971619051740865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846cdd7cf7cf2940800000000000000
+      internalID: 5273653575931421824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320375c913c2ae470800000000000000
+      internalID: 8424594644537913379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0244ad2ae0255c0800000000000000
+      internalID: -4228301007538085639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a147ee73e66aa00800000000000000
+      internalID: 767421973016091291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f37b31caf99280800000000000000
+      internalID: -9035915469509101304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68892f5432ee62ca0800000000000000
+      internalID: -6041880014806148986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf93edcf8f8ca0d0800000000000000
+      internalID: -3410192970028965949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ae137d43eecfb0800000000000000
+      internalID: -4625509845479545686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a52f5e6095d200800000000000000
+      internalID: 204228161832329924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d036b2ad2d9f400800000000000000
+      internalID: 358549479825280368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55834cf347cc44e0800000000000000
+      internalID: -1996001440022952609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3adea80c8cdbffa0800000000000000
+      internalID: -5765772403918579138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083255bfae986870800000000000000
+      internalID: 8676359159627790339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_187
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e33bd95af2d7020800000000000000
+      internalID: 2341079769664405066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c88e1606f852cf0800000000000000
+      internalID: -277658157891154854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_189
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa0eeab2324bd60800000000000000
+      internalID: 7904981916466589614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_190
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f68cff1aab49c0800000000000000
+      internalID: -3941869994475326701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_191
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19944cb51cb75f300800000000000000
+      internalID: 285270221806389649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4028d0457b4c40800000000000000
+      internalID: 5497616691500174231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_193
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27cf33782a853fa0800000000000000
+      internalID: -5821595036969613525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4611e58494ca2c680800000000000000
+      internalID: -8736230896398626460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_195
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389a70b4730c88eb0800000000000000
+      internalID: -4717309265956066941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fca032284a956b0800000000000000
+      internalID: -5307029807038804215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e1f39e475eb8e0800000000000000
+      internalID: -1675806016334075439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1790bf2055c69f0800000000000000
+      internalID: -473910389490748933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f152a3a07a33690800000000000000
+      internalID: -7623566081841094811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9a9c6593c266c40800000000000000
+      internalID: 5505136219287824823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a6ee17e0632d480800000000000000
+      internalID: -8875972479924934022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a6c1e9a84e5e700800000000000000
+      internalID: 569112211941517905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8007c1f869cf680800000000000000
+      internalID: -8719929237094528842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283174b1f87a46bb0800000000000000
+      internalID: -4943642257866157182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f30ed90726cf200800000000000000
+      internalID: 215155118031519628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852db476588707560800000000000000
+      internalID: 7309474709581320792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c8e4240467a7b0800000000000000
+      internalID: -5213088074696179624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912d171a82afe5ee0800000000000000
+      internalID: -1270302992457674215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_209
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a24534bd6d2a3d0800000000000000
+      internalID: -3196756548263859674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_210
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3652bde52a4140800000000000000
+      internalID: 4704614463571377938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c8e8ab63f5a220800000000000000
+      internalID: 2496669212167685357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_212
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d4685997ca4a9c0800000000000000
+      internalID: -3916816137705861734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95195fd1072d7770800000000000000
+      internalID: 8610080951597864351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_214
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865155ad80d21ea90800000000000000
+      internalID: -7286493206062754456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7ef5af81712f70800000000000000
+      internalID: 9160727978827479565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb599d2a0660afa0800000000000000
+      internalID: -5791516926897726477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9699158b23411ea80800000000000000
+      internalID: -8439442018642323095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2dae443bda44e0800000000000000
+      internalID: -1996542467080639689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_219
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f6f3215bba85e70800000000000000
+      internalID: 9104215440913035028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a567d5545e71d360800000000000000
+      internalID: 7192668980569925032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_221
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db0ab522c93cae70800000000000000
+      internalID: 9127734050792541143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffdf7eab9da4a9a0800000000000000
+      internalID: -6222657900960030731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_223
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d0454a53f66b10800000000000000
+      internalID: 1974533055683024420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101ba7772108e120800000000000000
+      internalID: 2443204066871545885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_225
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060a392adf5c9190800000000000000
+      internalID: -7954377451243960825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_226
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23e088d622364a70800000000000000
+      internalID: 8810784863419425581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030051668c45aa1b0800000000000000
+      internalID: -5644605963272650704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8478cfb2a4566a330800000000000000
+      internalID: 3721773511308248904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4742482563f51a0800000000000000
+      internalID: -6818671582783441729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_230
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965b4d5fd2fe23890800000000000000
+      internalID: -7479653050432047767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_231
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31495b5eb6e4a6750800000000000000
+      internalID: 6298933254153409555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958cc422d86e9aa50800000000000000
+      internalID: 6533006228317849689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_233
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da40a34aa1df4c0800000000000000
+      internalID: -4252213180517536451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_234
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce121558ef8e610800000000000000
+      internalID: 1650849111976569930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ecbd730e6347e90800000000000000
+      internalID: -7028932781780775353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744e250fa51d8c7f0800000000000000
+      internalID: -591993162489994169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_237
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec314f8e896e7a30800000000000000
+      internalID: 4214922362275052771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_238
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec65371d4b602520800000000000000
+      internalID: 2675256157504105705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_239
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf6b6b2bf3cac50800000000000000
+      internalID: 6677782384285777148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b81eabd7503f2e0800000000000000
+      internalID: -2093323364232754421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_241
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c41fdc8fea472e0800000000000000
+      internalID: -2128884340209136551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb40880d457d62920800000000000000
+      internalID: 2965294163945850043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_243
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cbc0c2185111870800000000000000
+      internalID: 8651720003689430073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deec3b6b21b1e6d0800000000000000
+      internalID: -2962892279792210215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_245
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89a836748631f410800000000000000
+      internalID: 1509047292692834698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211070a1af22805f0800000000000000
+      internalID: -790343277029687022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_247
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65892ca279156ad0800000000000000
+      internalID: -2709731620488116886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2958f6bc32ee530800000000000000
+      internalID: 3886082885123674846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_249
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30c874943e9c540800000000000000
+      internalID: 5028800362808345515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_250
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c3c482bbe528980800000000000000
+      internalID: -8538157785613059067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_251
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51639bf314d913b80800000000000000
+      internalID: -8416773325011208683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b7b441d4720ee0800000000000000
+      internalID: -1296345300579405051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_253
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1201bfe231d7120800000000000000
+      internalID: 2413106067842015740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_254
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4762b235178e3e410800000000000000
+      internalID: 1505302273896162932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_255
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd615ce86d41fb0800000000000000
+      internalID: -4677878204250791972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0829a8661a3b03dc0800000000000000
+      internalID: -3661228991260749184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_257
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87971ca14970ab80800000000000000
+      internalID: -8385569183196801140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_258
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7603d62a285d11b0800000000000000
+      internalID: -5684290216608463233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_259
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35965aecf9577ae0800000000000000
+      internalID: -1551672603807673028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_260
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca4b3d41b956efe0800000000000000
+      internalID: -1160141235961509183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_261
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755791e370f987b10800000000000000
+      internalID: 1979506889684776279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_262
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571c901ed4f72410800000000000000
+      internalID: 1452398639448856406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_263
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621bf59a34dc03930800000000000000
+      internalID: 4121019349532127526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82634828dd1697f0800000000000000
+      internalID: -606264285609106803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_265
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de73ecde0fcce30800000000000000
+      internalID: 4525256629758193009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_266
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5c23534d624e5f0800000000000000
+      internalID: -728414546859735561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_267
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e64d0b4130f6d0e0800000000000000
+      internalID: -2245343269694388504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_268
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc903ef671969fc0800000000000000
+      internalID: -3488440921095103312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_269
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8631e427cefe30800000000000000
+      internalID: 4539284435647237274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_270
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6aaa2b575fa5f0800000000000000
+      internalID: -743279364423389845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: route_224_by_ekat99_der10uy_271
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5eb57f35391070800000000000000
+      internalID: 8077545953340316605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      route_224_by_ekat99_der10uy_0: -6229008293399870015
+      route_224_by_ekat99_der10uy_1: 8638391556563890026
+      route_224_by_ekat99_der10uy_10: 8225423385772673191
+      route_224_by_ekat99_der10uy_100: -4280891130685802334
+      route_224_by_ekat99_der10uy_101: -842584337441050346
+      route_224_by_ekat99_der10uy_102: 1468590539808012554
+      route_224_by_ekat99_der10uy_103: -4189452882401023046
+      route_224_by_ekat99_der10uy_104: 5188831725661355561
+      route_224_by_ekat99_der10uy_105: 1822446877666927260
+      route_224_by_ekat99_der10uy_106: 249367318438808735
+      route_224_by_ekat99_der10uy_107: -2742558369796734978
+      route_224_by_ekat99_der10uy_108: 6785723096023656358
+      route_224_by_ekat99_der10uy_109: -582307702082470378
+      route_224_by_ekat99_der10uy_11: 7928917384797928548
+      route_224_by_ekat99_der10uy_110: -4671184499446285690
+      route_224_by_ekat99_der10uy_111: -1493991003069151498
+      route_224_by_ekat99_der10uy_112: 1919081202235242387
+      route_224_by_ekat99_der10uy_113: 8947202182016365289
+      route_224_by_ekat99_der10uy_114: 8395727779441702911
+      route_224_by_ekat99_der10uy_115: 7178771093931206622
+      route_224_by_ekat99_der10uy_116: -6800385237423586586
+      route_224_by_ekat99_der10uy_117: 8923173041732661910
+      route_224_by_ekat99_der10uy_118: -5500643622042479120
+      route_224_by_ekat99_der10uy_119: 8569735105135082745
+      route_224_by_ekat99_der10uy_12: -5918009454214379129
+      route_224_by_ekat99_der10uy_120: -831229642964478535
+      route_224_by_ekat99_der10uy_121: 6675148941473449958
+      route_224_by_ekat99_der10uy_122: -3246941586537026749
+      route_224_by_ekat99_der10uy_123: 884248605525297860
+      route_224_by_ekat99_der10uy_124: 5922488832819473002
+      route_224_by_ekat99_der10uy_125: 4289506311584727942
+      route_224_by_ekat99_der10uy_126: -104028746041944439
+      route_224_by_ekat99_der10uy_127: 2600708868429850090
+      route_224_by_ekat99_der10uy_128: 2467630044107218573
+      route_224_by_ekat99_der10uy_129: 4442771679286627327
+      route_224_by_ekat99_der10uy_13: -5329152067038514632
+      route_224_by_ekat99_der10uy_130: -5953629766147688746
+      route_224_by_ekat99_der10uy_131: -5056623802845441628
+      route_224_by_ekat99_der10uy_132: 1261979625325745498
+      route_224_by_ekat99_der10uy_133: 1552701177763362186
+      route_224_by_ekat99_der10uy_134: -7299538538895281982
+      route_224_by_ekat99_der10uy_135: -6515691862663238112
+      route_224_by_ekat99_der10uy_136: 3988669530979796548
+      route_224_by_ekat99_der10uy_137: -8683693061194378927
+      route_224_by_ekat99_der10uy_138: -3327656847079152012
+      route_224_by_ekat99_der10uy_139: 2945849218834844434
+      route_224_by_ekat99_der10uy_14: -8347721543799952875
+      route_224_by_ekat99_der10uy_140: -2457570438962470187
+      route_224_by_ekat99_der10uy_141: 4548025578225815362
+      route_224_by_ekat99_der10uy_142: 2866938739183251957
+      route_224_by_ekat99_der10uy_143: -3382728462517531885
+      route_224_by_ekat99_der10uy_144: 1023791257004108831
+      route_224_by_ekat99_der10uy_145: 1817273442978446381
+      route_224_by_ekat99_der10uy_146: 217786055750955594
+      route_224_by_ekat99_der10uy_147: -4322161368606072765
+      route_224_by_ekat99_der10uy_148: 5146433477458288529
+      route_224_by_ekat99_der10uy_149: 5275002078868957396
+      route_224_by_ekat99_der10uy_15: -6972395525509632213
+      route_224_by_ekat99_der10uy_150: 4720662861354542493
+      route_224_by_ekat99_der10uy_151: -5475727971272282673
+      route_224_by_ekat99_der10uy_152: 7538932896039836556
+      route_224_by_ekat99_der10uy_153: 2655600671408543996
+      route_224_by_ekat99_der10uy_154: -8257857544276830520
+      route_224_by_ekat99_der10uy_155: 1091639494370448454
+      route_224_by_ekat99_der10uy_156: 4144263308050918795
+      route_224_by_ekat99_der10uy_157: -3289987328718320495
+      route_224_by_ekat99_der10uy_158: 5238369670376776749
+      route_224_by_ekat99_der10uy_159: 858523805539339716
+      route_224_by_ekat99_der10uy_16: -2793970151267942945
+      route_224_by_ekat99_der10uy_160: -2605725879040790359
+      route_224_by_ekat99_der10uy_161: 7737928282820155723
+      route_224_by_ekat99_der10uy_162: -8735894131831140535
+      route_224_by_ekat99_der10uy_163: 6638676319629300673
+      route_224_by_ekat99_der10uy_164: 2826884694718112635
+      route_224_by_ekat99_der10uy_165: -8367795600216631740
+      route_224_by_ekat99_der10uy_166: 6024609185700043311
+      route_224_by_ekat99_der10uy_167: 8873574374429757340
+      route_224_by_ekat99_der10uy_168: 4514549814804457006
+      route_224_by_ekat99_der10uy_169: -8756037297054565355
+      route_224_by_ekat99_der10uy_17: -8428221849502366982
+      route_224_by_ekat99_der10uy_170: 2634628856463382955
+      route_224_by_ekat99_der10uy_171: 6897374534755637887
+      route_224_by_ekat99_der10uy_172: 8183356567334291530
+      route_224_by_ekat99_der10uy_173: 2888971619051740865
+      route_224_by_ekat99_der10uy_174: 5273653575931421824
+      route_224_by_ekat99_der10uy_175: 8424594644537913379
+      route_224_by_ekat99_der10uy_176: -4228301007538085639
+      route_224_by_ekat99_der10uy_177: 767421973016091291
+      route_224_by_ekat99_der10uy_178: -9035915469509101304
+      route_224_by_ekat99_der10uy_179: -6041880014806148986
+      route_224_by_ekat99_der10uy_18: 3196247917619282253
+      route_224_by_ekat99_der10uy_180: -3410192970028965949
+      route_224_by_ekat99_der10uy_181: -4625509845479545686
+      route_224_by_ekat99_der10uy_182: 204228161832329924
+      route_224_by_ekat99_der10uy_183: 358549479825280368
+      route_224_by_ekat99_der10uy_184: -1996001440022952609
+      route_224_by_ekat99_der10uy_185: -5765772403918579138
+      route_224_by_ekat99_der10uy_186: 8676359159627790339
+      route_224_by_ekat99_der10uy_187: 2341079769664405066
+      route_224_by_ekat99_der10uy_188: -277658157891154854
+      route_224_by_ekat99_der10uy_189: 7904981916466589614
+      route_224_by_ekat99_der10uy_19: -7432038617639866646
+      route_224_by_ekat99_der10uy_190: -3941869994475326701
+      route_224_by_ekat99_der10uy_191: 285270221806389649
+      route_224_by_ekat99_der10uy_192: 5497616691500174231
+      route_224_by_ekat99_der10uy_193: -5821595036969613525
+      route_224_by_ekat99_der10uy_194: -8736230896398626460
+      route_224_by_ekat99_der10uy_195: -4717309265956066941
+      route_224_by_ekat99_der10uy_196: -5307029807038804215
+      route_224_by_ekat99_der10uy_197: -1675806016334075439
+      route_224_by_ekat99_der10uy_198: -473910389490748933
+      route_224_by_ekat99_der10uy_199: -7623566081841094811
+      route_224_by_ekat99_der10uy_2: -2707670295675109660
+      route_224_by_ekat99_der10uy_20: -3702735473918023210
+      route_224_by_ekat99_der10uy_200: 5505136219287824823
+      route_224_by_ekat99_der10uy_201: -8875972479924934022
+      route_224_by_ekat99_der10uy_202: 569112211941517905
+      route_224_by_ekat99_der10uy_203: -8719929237094528842
+      route_224_by_ekat99_der10uy_204: -4943642257866157182
+      route_224_by_ekat99_der10uy_205: 215155118031519628
+      route_224_by_ekat99_der10uy_206: 7309474709581320792
+      route_224_by_ekat99_der10uy_207: -5213088074696179624
+      route_224_by_ekat99_der10uy_208: -1270302992457674215
+      route_224_by_ekat99_der10uy_209: -3196756548263859674
+      route_224_by_ekat99_der10uy_21: 5562264437510116558
+      route_224_by_ekat99_der10uy_210: 4704614463571377938
+      route_224_by_ekat99_der10uy_211: 2496669212167685357
+      route_224_by_ekat99_der10uy_212: -3916816137705861734
+      route_224_by_ekat99_der10uy_213: 8610080951597864351
+      route_224_by_ekat99_der10uy_214: -7286493206062754456
+      route_224_by_ekat99_der10uy_215: 9160727978827479565
+      route_224_by_ekat99_der10uy_216: -5791516926897726477
+      route_224_by_ekat99_der10uy_217: -8439442018642323095
+      route_224_by_ekat99_der10uy_218: -1996542467080639689
+      route_224_by_ekat99_der10uy_219: 9104215440913035028
+      route_224_by_ekat99_der10uy_22: 693233752159765578
+      route_224_by_ekat99_der10uy_220: 7192668980569925032
+      route_224_by_ekat99_der10uy_221: 9127734050792541143
+      route_224_by_ekat99_der10uy_222: -6222657900960030731
+      route_224_by_ekat99_der10uy_223: 1974533055683024420
+      route_224_by_ekat99_der10uy_224: 2443204066871545885
+      route_224_by_ekat99_der10uy_225: -7954377451243960825
+      route_224_by_ekat99_der10uy_226: 8810784863419425581
+      route_224_by_ekat99_der10uy_227: -5644605963272650704
+      route_224_by_ekat99_der10uy_228: 3721773511308248904
+      route_224_by_ekat99_der10uy_229: -6818671582783441729
+      route_224_by_ekat99_der10uy_23: 2089841960545430786
+      route_224_by_ekat99_der10uy_230: -7479653050432047767
+      route_224_by_ekat99_der10uy_231: 6298933254153409555
+      route_224_by_ekat99_der10uy_232: 6533006228317849689
+      route_224_by_ekat99_der10uy_233: -4252213180517536451
+      route_224_by_ekat99_der10uy_234: 1650849111976569930
+      route_224_by_ekat99_der10uy_235: -7028932781780775353
+      route_224_by_ekat99_der10uy_236: -591993162489994169
+      route_224_by_ekat99_der10uy_237: 4214922362275052771
+      route_224_by_ekat99_der10uy_238: 2675256157504105705
+      route_224_by_ekat99_der10uy_239: 6677782384285777148
+      route_224_by_ekat99_der10uy_24: -4097524720707474957
+      route_224_by_ekat99_der10uy_240: -2093323364232754421
+      route_224_by_ekat99_der10uy_241: -2128884340209136551
+      route_224_by_ekat99_der10uy_242: 2965294163945850043
+      route_224_by_ekat99_der10uy_243: 8651720003689430073
+      route_224_by_ekat99_der10uy_244: -2962892279792210215
+      route_224_by_ekat99_der10uy_245: 1509047292692834698
+      route_224_by_ekat99_der10uy_246: -790343277029687022
+      route_224_by_ekat99_der10uy_247: -2709731620488116886
+      route_224_by_ekat99_der10uy_248: 3886082885123674846
+      route_224_by_ekat99_der10uy_249: 5028800362808345515
+      route_224_by_ekat99_der10uy_25: -4784745337544694850
+      route_224_by_ekat99_der10uy_250: -8538157785613059067
+      route_224_by_ekat99_der10uy_251: -8416773325011208683
+      route_224_by_ekat99_der10uy_252: -1296345300579405051
+      route_224_by_ekat99_der10uy_253: 2413106067842015740
+      route_224_by_ekat99_der10uy_254: 1505302273896162932
+      route_224_by_ekat99_der10uy_255: -4677878204250791972
+      route_224_by_ekat99_der10uy_256: -3661228991260749184
+      route_224_by_ekat99_der10uy_257: -8385569183196801140
+      route_224_by_ekat99_der10uy_258: -5684290216608463233
+      route_224_by_ekat99_der10uy_259: -1551672603807673028
+      route_224_by_ekat99_der10uy_26: -1036681206496405537
+      route_224_by_ekat99_der10uy_260: -1160141235961509183
+      route_224_by_ekat99_der10uy_261: 1979506889684776279
+      route_224_by_ekat99_der10uy_262: 1452398639448856406
+      route_224_by_ekat99_der10uy_263: 4121019349532127526
+      route_224_by_ekat99_der10uy_264: -606264285609106803
+      route_224_by_ekat99_der10uy_265: 4525256629758193009
+      route_224_by_ekat99_der10uy_266: -728414546859735561
+      route_224_by_ekat99_der10uy_267: -2245343269694388504
+      route_224_by_ekat99_der10uy_268: -3488440921095103312
+      route_224_by_ekat99_der10uy_269: 4539284435647237274
+      route_224_by_ekat99_der10uy_27: -6016839290231404417
+      route_224_by_ekat99_der10uy_270: -743279364423389845
+      route_224_by_ekat99_der10uy_271: 8077545953340316605
+      route_224_by_ekat99_der10uy_28: 65860830100196381
+      route_224_by_ekat99_der10uy_29: -3095375305075898611
+      route_224_by_ekat99_der10uy_3: 7334426615524197483
+      route_224_by_ekat99_der10uy_30: 7327073244531155619
+      route_224_by_ekat99_der10uy_31: 8222189913099395796
+      route_224_by_ekat99_der10uy_32: -8733705381138044252
+      route_224_by_ekat99_der10uy_33: -6767061208841375517
+      route_224_by_ekat99_der10uy_34: -8854601346898441329
+      route_224_by_ekat99_der10uy_35: -8257198591891018581
+      route_224_by_ekat99_der10uy_36: -859738894803001990
+      route_224_by_ekat99_der10uy_37: 7707099429771267135
+      route_224_by_ekat99_der10uy_38: 8791335979608272844
+      route_224_by_ekat99_der10uy_39: 7565541309924442107
+      route_224_by_ekat99_der10uy_4: -5276258691222589336
+      route_224_by_ekat99_der10uy_40: -8020673261028898206
+      route_224_by_ekat99_der10uy_41: 979349002819867485
+      route_224_by_ekat99_der10uy_42: -4742393987826631524
+      route_224_by_ekat99_der10uy_43: -5658396587739816079
+      route_224_by_ekat99_der10uy_44: 8291244287897115361
+      route_224_by_ekat99_der10uy_45: -1575730739771811136
+      route_224_by_ekat99_der10uy_46: 7842672359478651138
+      route_224_by_ekat99_der10uy_47: -4336557572176750559
+      route_224_by_ekat99_der10uy_48: 6366402667038234424
+      route_224_by_ekat99_der10uy_49: -5808610518459462941
+      route_224_by_ekat99_der10uy_5: -6376366885691187233
+      route_224_by_ekat99_der10uy_50: -3388655426835936882
+      route_224_by_ekat99_der10uy_51: 6046138059413288089
+      route_224_by_ekat99_der10uy_52: 8633242781638868764
+      route_224_by_ekat99_der10uy_53: 7814878447847923032
+      route_224_by_ekat99_der10uy_54: 1694297837498073662
+      route_224_by_ekat99_der10uy_55: -1078359822309531042
+      route_224_by_ekat99_der10uy_56: 7400389726422749381
+      route_224_by_ekat99_der10uy_57: -7359187331327636856
+      route_224_by_ekat99_der10uy_58: 4334010627757308409
+      route_224_by_ekat99_der10uy_59: -8219016416890487338
+      route_224_by_ekat99_der10uy_6: 4337544372200046741
+      route_224_by_ekat99_der10uy_60: -7065491755461559071
+      route_224_by_ekat99_der10uy_61: -3894975534127262460
+      route_224_by_ekat99_der10uy_62: -3537744978238592051
+      route_224_by_ekat99_der10uy_63: 1037575913626271716
+      route_224_by_ekat99_der10uy_64: -7117163182852754449
+      route_224_by_ekat99_der10uy_65: 8136044569533697351
+      route_224_by_ekat99_der10uy_66: 7027762238163795840
+      route_224_by_ekat99_der10uy_67: -1194730749617560203
+      route_224_by_ekat99_der10uy_68: 408607841382653384
+      route_224_by_ekat99_der10uy_69: 281562274101863927
+      route_224_by_ekat99_der10uy_7: -1478908760599703924
+      route_224_by_ekat99_der10uy_70: 1878931974623967526
+      route_224_by_ekat99_der10uy_71: -688294593802879361
+      route_224_by_ekat99_der10uy_72: -2538403854222594566
+      route_224_by_ekat99_der10uy_73: 5550107045874290524
+      route_224_by_ekat99_der10uy_74: 4094149429880485511
+      route_224_by_ekat99_der10uy_75: -8616109119275859260
+      route_224_by_ekat99_der10uy_76: -1505277220009687517
+      route_224_by_ekat99_der10uy_77: -7147418479504806971
+      route_224_by_ekat99_der10uy_78: -8539422996655506406
+      route_224_by_ekat99_der10uy_79: 1408293240631837933
+      route_224_by_ekat99_der10uy_8: 6830999516880778506
+      route_224_by_ekat99_der10uy_80: -24062873030566651
+      route_224_by_ekat99_der10uy_81: 2242206794757450057
+      route_224_by_ekat99_der10uy_82: -782321614400386390
+      route_224_by_ekat99_der10uy_83: -5053805590973601705
+      route_224_by_ekat99_der10uy_84: 368227276972331508
+      route_224_by_ekat99_der10uy_85: -3349010338127653441
+      route_224_by_ekat99_der10uy_86: 5464817954659065794
+      route_224_by_ekat99_der10uy_87: -2486178356648710042
+      route_224_by_ekat99_der10uy_88: -8769251598757409696
+      route_224_by_ekat99_der10uy_89: 6811875980230801208
+      route_224_by_ekat99_der10uy_9: -8304687188953126867
+      route_224_by_ekat99_der10uy_90: -2121663632290153869
+      route_224_by_ekat99_der10uy_91: -5881929925622741759
+      route_224_by_ekat99_der10uy_92: -4110754289661044631
+      route_224_by_ekat99_der10uy_93: -1742741195459591400
+      route_224_by_ekat99_der10uy_94: -1206129473658016902
+      route_224_by_ekat99_der10uy_95: -3422315658533426661
+      route_224_by_ekat99_der10uy_96: 8408343633429613974
+      route_224_by_ekat99_der10uy_97: 6917373217699986434
+      route_224_by_ekat99_der10uy_98: -6996714607041011109
+      route_224_by_ekat99_der10uy_99: 7823053799542498668
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
